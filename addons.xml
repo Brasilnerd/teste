@@ -4,7 +4,7 @@
 	<extension point="xbmc.addon.repository" name="Repositório Poseidon">
 		<info compressed="false">https://raw.githubusercontent.com/Brasilnerd/teste/main/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/Brasilnerd/teste/main/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/zoreu/meuaddon/master/zip/</datadir>
+		<datadir zip="true">https://github.com/Brasilnerd/teste/blob/main/meu%20addon/poseidon.repo.rar</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Repositório Poseidon</summary>
@@ -39,9 +39,9 @@
     <provides>video</provides>
   </extension>
  <extension point="xbmc.addon.repository" name="Repositório Poseidon">
-	<info compressed="false">http://raw.github.com/zoreu/meuaddon/master/addons.xml</info>
-	<checksum>http://raw.github.com/zoreu/meuaddon/master/addons.xml.md5</checksum>
-	<datadir zip="true">http://raw.github.com/zoreu/meuaddon/master/zip/</datadir>
+	<info compressed="false">https://raw.githubusercontent.com/Brasilnerd/teste/main/addons.xml</info>
+	<checksum>https://raw.githubusercontent.com/Brasilnerd/teste/main/addons.xml.md5</checksum>
+	<datadir zip="true">https://github.com/Brasilnerd/teste/blob/main/meu%20addon/poseidon.repo.rar</datadir>
   </extension>
   
   <extension point="xbmc.addon.metadata">
