@@ -4,5 +4,1927 @@
     <url>hhttp://www.vivo.com.br/</url>
     <display-name lang="pt">Rede Brasil HD</display-name>
   </channel>
-  <channels>		
-</settings>
+<programme channel="Rede.Brasil.HD.br" start="20241124150000 +0000" stop="20241124160000 +0000">
+    <title lang="pt">O Melhor da Semana</title>
+    <desc lang="pt">Tudo que rolou de melhor durante a semana na Rede Brasil.</desc>
+    <date>2024</date>
+    <category lang="pt">Variedades</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/93/20936250_403E3554E01DACE7.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+    </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241124160000 +0000" stop="20241124170000 +0000">
+    <title lang="pt">Séries Douradas</title>
+    <desc lang="pt">Acompanhe as séries que trazem nostalgia ao telespectador.</desc>
+    <date>2019</date>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/94/11944651_0DFB3C95B9B371E7.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241124170000 +0000" stop="20241124190000 +0000">
+    <title lang="pt">Programa Padre Alessandro Campos</title>
+    <desc lang="pt">Muita música, celebração, diversão e informação com o religioso que conquistou o Brasil.</desc>
+    <date>2024</date>
+    <category lang="pt">Religioso</category>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/28/18281253_E9B56D81DBB975EE.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241124190000 +0000" stop="20241124193000 +0000">
+    <title lang="pt">Agente 86</title>
+    <desc lang="pt">Um agente secreto e muito atrapalhado tenta salvar o mundo da terrível organização KAOS.</desc>
+    <credits>
+      <actor>Don Adams</actor>
+      <actor>Edward Platt</actor>
+      <actor>Barbara Feldon</actor>
+    </credits>
+    <date>1965</date>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/08/20083334_C06ECD4C201C6A02.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241124193000 +0000" stop="20241124203000 +0000">
+    <title lang="pt">O Rei dos Ladrões</title>
+    <desc lang="pt">Alexander Mundy, um ladrão condenado à prisão, aceita uma oferta do governo dos Estados Unidos para realizar várias tarefas e assim ser liberado das acusações.</desc>
+    <credits>
+      <actor>Fred Astaire</actor>
+      <actor>Robert Wagner</actor>
+      <actor>Roland Kibbee</actor>
+      <actor>Edward Binns</actor>
+      <actor>Malachi Throne</actor>
+      <actor>Michael Walker</actor>
+    </credits>
+    <date>1968</date>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Mistério</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/82/20823893_64A5C25FCAF9703D.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+     </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241124203000 +0000" stop="20241124233000 +0000">
+    <title lang="pt">Joias Vip</title>
+    <desc lang="pt">Encontre lindas joias e relógios e peças em prata, com preços que cabem no seu bolso.</desc>
+    <date>2010</date>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/77/11776138_F430D4E44DC0F624.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241124233000 +0000" stop="20241125000000 +0000">
+    <title lang="pt">Oração da Noite</title>
+    <desc lang="pt">Momento reflexivo de oração.</desc>
+    <date>2024</date>
+    <category lang="pt">Religioso</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/17/18171470_5DB443F2CC01A8D5.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125000000 +0000" stop="20241125004500 +0000">
+    <title lang="pt">RB Aventura</title>
+    <desc lang="pt">Acompanhe o programa que apresenta alguns seriados clássicos.</desc>
+    <date>2019</date>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/83/11832299_02B2E20083CA563D.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125004500 +0000" stop="20241125005000 +0000">
+    <title lang="pt">Findi Quiz</title>
+    <desc lang="pt">Evê Sobral traz curiosidades sobre os clássicos que são sucesso e interage com os telespectadores em um jogo de perguntas.</desc>
+    <date>2020</date>
+    <category lang="pt">Entretenimento</category>
+    <category lang="pt">Jogo</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/98/12982767_14EE64E442085F71.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125005000 +0000" stop="20241125023000 +0000">
+    <title lang="pt">Sucessos do Cinema</title>
+    <desc lang="pt">Uma sessão de filmes só com os maiores sucessos do cinema.</desc>
+    <date>2008</date>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11850797_4E98F923185FDB2D.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125023000 +0000" stop="20241125033000 +0000">
+    <title lang="pt">Jornada Nas Estrelas</title>
+    <desc lang="pt">O capitão Kirk e a tripulação da USS Enterprise viajam pelo espaço explorando novos mundos e conhecendo novas civilizações.</desc>
+    <credits>
+      <actor>James Doohan</actor>
+      <actor>William Shatner</actor>
+      <actor>George Takei</actor>
+      <actor>DeForest Kelley</actor>
+      <actor>Nichelle Nichols</actor>
+      <actor>Leonard Nimoy</actor>
+      <actor>Walter Koenig</actor>
+    </credits>
+    <date>1966</date>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Ficção Cientifica</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/83/11835591_5B7611A5F03F939B.jpg" />
+    <rating>
+      <value>+12</value>
+    </rating>
+      </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125033000 +0000" stop="20241125043000 +0000">
+    <title lang="pt">MacGyver</title>
+    <desc lang="pt">MacGyver é um agente secreto altamente inteligente que prefere resolver os conflitos sem violência. Ele nunca está armado e derrota o inimigo com seu vasto conhecimento científico.</desc>
+    <credits>
+      <actor>Richard Dean Anderson</actor>
+      <actor>Elyssa Davalos</actor>
+      <actor>Bruce Mcgill</actor>
+      <actor>Dana Elcar</actor>
+      <director>Lee David Zlotoff</director>
+    </credits>
+    <date>1985</date>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/31/20313976_033042BD7136E4EE.jpg" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125043000 +0000" stop="20241125053000 +0000">
+    <title lang="pt">SPA TV Fantasia</title>
+    <desc lang="pt">Acompanhe as situações mais engraçadas e inusitadas que acontecem no dia a dia de um spa comum.</desc>
+    <credits>
+      <actor>David Cardoso Junior</actor>
+      <actor>Mateus Carrieri</actor>
+      <actor>Evê Sobral</actor>
+      <actor>Jonas Melo</actor>
+      <actor>Beth Guzzo</actor>
+      <actor>Helô Pinheiro</actor>
+      <actor>Márcia Real</actor>
+      <director>José Paiva</director>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/81/11818109_C56C3E08C4D168D9.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125053000 +0000" stop="20241125063000 +0000">
+    <title lang="pt">A Ilha da Fantasia</title>
+    <desc lang="pt">Conheça a história de uma ilha paradisíaca onde qualquer desejo pode ser realizado. O anfitrião do local é o senhor Roarke, juntamente com seu auxiliar, o pequeno Tattoo, um anãozinho muito simpático.</desc>
+    <credits>
+      <actor>Christopher Hewett</actor>
+      <actor>Ricardo Montalban</actor>
+      <actor>Wendy Schaal</actor>
+      <actor>Herve Villechaize</actor>
+    </credits>
+    <date>1978</date>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/53/20531163_E6ECE4A6404FD940.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125063000 +0000" stop="20241125073000 +0000">
+    <title lang="pt">Thunderbirds</title>
+    <desc lang="pt">A série britânica de ficção científica segue as missões da equipe Resgate Internacional, uma organização cuja tecnologia avançada os ajuda nos resgates.</desc>
+    <credits>
+      <actor>David Graham</actor>
+      <actor>Gerry Anderson</actor>
+      <actor>Peter Dyneley</actor>
+    </credits>
+    <date>1965</date>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11861074_DBD107E2720657A9.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+     </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125073000 +0000" stop="20241125080000 +0000">
+    <title lang="pt">Ultraman</title>
+    <desc lang="pt">O agente Hayata morre em um acidente e Ultraman resolve ressuscitá-lo. Ultraman transfere sua energia vital para o corpo de Hayata e lhe entrega a Cápsula Beta. Ao apertar o botão da cápsula, Hayata se transforma em Ultraman.</desc>
+    <credits>
+      <actor>Akiji Kobayashi</actor>
+      <actor>Hiroko Sakurai</actor>
+      <actor>Susumu Kurobe</actor>
+      <actor>Eiji Tsuburaya</actor>
+    </credits>
+    <date>1966</date>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Ação</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/77/11775555_F96B9F9055E96B21.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125080000 +0000" stop="20241125083000 +0000">
+    <title lang="pt">Dennis, o Pimentinha</title>
+    <desc lang="pt">Denis, uma criança bagunceira, inferniza o seu vizinho, o Sr. Wilson.</desc>
+    <credits>
+      <actor>Gloria Henry</actor>
+      <actor>Jeannie Russell</actor>
+      <actor>Herbert Anderson</actor>
+      <actor>Jay North</actor>
+      <actor>Gale Gordon</actor>
+      <actor>Billy Booth</actor>
+      <actor>Sara Seegar</actor>
+      <actor>Joseph Kearns</actor>
+      <actor>Sylvia Field</actor>
+    </credits>
+    <date>1959</date>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/90/19909336_B882F12B1C536AFF.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125083000 +0000" stop="20241125090000 +0000">
+    <title lang="pt">Os Três Patetas</title>
+    <desc lang="pt">Enquanto estrelam em filmes, Larry, Moe, Curly e às vezes Shemp, nos divertem com comédia de pastelão e se envolvem em muitas situações de violência, mas de contexto cômico.</desc>
+    <credits>
+      <actor>Larry Fine</actor>
+      <actor>Moe Howard</actor>
+      <actor>Ted Healy</actor>
+      <actor>Nancy Saunders</actor>
+      <actor>Curly Howard</actor>
+      <actor>Shemp Howard</actor>
+      <actor>Joe Besser</actor>
+      <director>Jack Cummings</director>
+      <director>Edward Bernds</director>
+    </credits>
+    <date>1934</date>
+    <category lang="pt">Comédia</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/96/20964071_05B06CA901C665EF.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125090000 +0000" stop="20241125091500 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+      </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125091500 +0000" stop="20241125092000 +0000">
+    <title lang="pt">Giramille</title>
+    <desc lang="pt">A professora Giramille e seus amigos ensinam de forma divertida e inteligente em um universo mágico.</desc>
+    <credits>
+      <actor>Diego Navarro</actor>
+      <director>Diego Navarro</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/05/20057683_58FFBD318C14416B.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125092000 +0000" stop="20241125094000 +0000">
+    <title lang="pt">O Diário de Mika</title>
+    <desc lang="pt">Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer. Junto de seus brinquedos, Puquê, Blablá, Bru, Javô, Abelhuda e Lilá, ela aprende sobre o mundo, vivendo incríveis aventuras e novas experiências.</desc>
+    <credits>
+      <director>Elizabeth Mendes</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/81/11818910_8EE37EC65C48C3EB.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125094000 +0000" stop="20241125095000 +0000">
+    <title lang="pt">RB Kids</title>
+    <desc lang="pt">Espaço destinado à exibição de desenhos infantis.</desc>
+    <date>2017</date>
+    <category lang="pt">Infantil</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11854889_07B0FF03F074DCFE.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125095000 +0000" stop="20241125101000 +0000">
+    <title lang="pt">Os Chocolix</title>
+    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia. Dona Branca, Don Cacau e seus filhos Chocomark e Chocholyne vivem grandes aventuras e ensinam conceitos de amizade e a importância da família.</desc>
+    <credits>
+      <director>Elizabeth Mendes</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Animação</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/84/11848320_E972A4200D48443E.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125101000 +0000" stop="20241125104000 +0000">
+    <title lang="pt">MuQiLing</title>
+    <desc lang="pt">Um menino é teletransportado para a Ilha da Sombra Verde e lá forma aliança com dois MuQiLing.</desc>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Anime</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/83/11836943_A658C930A78C3B51.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125104000 +0000" stop="20241125110000 +0000">
+    <title lang="pt">A Feiticeira</title>
+    <desc lang="pt">Basta torcer o nariz para Samantha usar seus poderes de bruxa. O problema é que seu marido, o publicitário James, quer que ela seja uma esposa normal e ignore sua mágica.</desc>
+    <credits>
+      <actor>Dick Sargent</actor>
+      <actor>Diane Murphy</actor>
+      <actor>George Tobias</actor>
+      <actor>Agnes Moorehead</actor>
+      <actor>Irene Vernon</actor>
+      <actor>David Lawrence</actor>
+      <actor>Alice Pearce</actor>
+      <actor>Kasey Rogers</actor>
+      <actor>David White</actor>
+      <actor>Sol Saks</actor>
+    </credits>
+    <date>1964</date>
+    <category lang="pt">Romance</category>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11858314_F21B32DA80ED328D.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125110000 +0000" stop="20241125121500 +0000">
+    <title lang="pt">Na Casa do Padre</title>
+    <desc lang="pt">Padre Alessandro Campos entrevista artistas sertanejos com muita música e histórias interessantes.</desc>
+    <date>2024</date>
+    <category lang="pt">Entrevista</category>
+    <category lang="pt">Musica</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/17/18171497_A4A344FBB90EB7F9.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+     </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125121500 +0000" stop="20241125124500 +0000">
+    <title lang="pt">Ateliê na TV</title>
+    <desc lang="pt">Humorado, irreverente e diversificado, Dotan Mayo apresenta as novidades e tendências do mundo do artesanato. Aprenda a fazer os mais variados trabalhos manuais, de decoração e pinturas à criação de roupas.</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/92/12922356_2B9F9C09575D67CD.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125124500 +0000" stop="20241125130000 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125130000 +0000" stop="20241125131500 +0000">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11861052_9A054BF7ACE72D3E.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125131500 +0000" stop="20241125133000 +0000">
+    <title lang="pt">RB Notícias</title>
+    <desc lang="pt">As notícias mais atualizadas do Brasil e do mundo.</desc>
+    <credits>
+      <actor>Camila Smith</actor>
+      <actor>Hermano Henning</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11855797_323B252F5EF8468E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125133000 +0000" stop="20241125150000 +0000">
+    <title lang="pt">Papo em Dia</title>
+    <desc lang="pt">Com um clima descontraído, o programa traz entrevistas exclusivas, convidados especiais, música, gastronomia, saúde e variedades.</desc>
+    <date>2018</date>
+    <category lang="pt">Culinária</category>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/98/12982393_7D29E56A840B55D6.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125150000 +0000" stop="20241125160000 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125160000 +0000" stop="20241125162000 +0000">
+    <title lang="pt">Hino à Alegria</title>
+    <desc lang="pt">Cinco mulheres de diferentes origens, sonhos e personalidades vivem no mesmo complexo de apartamentos em Xangai, na China. Elas passam a ser amigas e compartilhar as alegrias e tristezas do dia a dia.</desc>
+    <credits>
+      <actor>Zi Yang</actor>
+      <actor>Wang Ziwen</actor>
+      <actor>Qiao Xin</actor>
+      <actor>Liu Tao</actor>
+      <actor>Jiang Xin</actor>
+      <director>Jian Chuanhe</director>
+      <director>Kong Sheng</director>
+      <director>Zhang Kaizhou</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/67/18675256_4E32C01F0C5AAE2B.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125162000 +0000" stop="20241125163000 +0000">
+    <title lang="pt">RB Notícias</title>
+    <desc lang="pt">As notícias mais atualizadas do Brasil e do mundo.</desc>
+    <credits>
+      <actor>Camila Smith</actor>
+      <actor>Hermano Henning</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11855797_323B252F5EF8468E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125163000 +0000" stop="20241125173000 +0000">
+    <title lang="pt">Mulher 360</title>
+    <desc lang="pt">Com uma visão inclusiva, o programa destaca-se ao proporcionar um espaço que reconhece e celebra as diversas facetas da mulher contemporânea.</desc>
+    <date>2023</date>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/72/17729061_DA5C9DF476C99511.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125173000 +0000" stop="20241125174500 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125174500 +0000" stop="20241125180000 +0000">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11861052_9A054BF7ACE72D3E.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125180000 +0000" stop="20241125190000 +0000">
+    <title lang="pt">Tarde Top</title>
+    <desc lang="pt">Nani Venâncio traz informação e entretenimento, com entrevistas, saúde, fofoca e variedades.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/84/11843905_6ED5A9C79411C84D.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125190000 +0000" stop="20241125193000 +0000">
+    <title lang="pt">Punky, a Levada da Breca</title>
+    <desc lang="pt">Penélope &quot;Punky&quot; Brewster é uma garota bem-humorada, abandonada pelos pais. Na companhia do seu cão Pinky, descobre um apartamento vago num prédio e passa a viver lá. O administrador do prédio a adota e com suas amigas passa por grandes aventuras.</desc>
+    <credits>
+      <actor>Eddie Deezen</actor>
+      <actor>Ami Foster</actor>
+      <actor>Soleil Moon Frye</actor>
+      <actor>David W. Duclon</actor>
+      <actor>Cherie Johnson</actor>
+      <actor>T.K. Carter</actor>
+      <actor>Susie Garrett</actor>
+      <actor>George Gaynes</actor>
+    </credits>
+    <date>1984</date>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/84/20844470_DBFCDDD05A582550.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125193000 +0000" stop="20241125194500 +0000">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11861052_9A054BF7ACE72D3E.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125194500 +0000" stop="20241125200000 +0000">
+    <title lang="pt">RB Notícias</title>
+    <desc lang="pt">As notícias mais atualizadas do Brasil e do mundo.</desc>
+    <credits>
+      <actor>Camila Smith</actor>
+      <actor>Hermano Henning</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11855797_323B252F5EF8468E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125200000 +0000" stop="20241125203000 +0000">
+    <title lang="pt">Oração da Noite</title>
+    <desc lang="pt">Momento reflexivo de oração.</desc>
+    <date>2024</date>
+    <category lang="pt">Religioso</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/17/18171470_5DB443F2CC01A8D5.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125203000 +0000" stop="20241125204000 +0000">
+    <title lang="pt">Corrida Maluca</title>
+    <desc lang="pt">Dez pilotos disputam corridas pelo país em seus carros malucos e cheios de estilo. O corredor Dick Vigarista está sempre pronto para passar seus adversários para trás, mas seu orgulho acaba atrapalhando até mesmo suas trapaças.</desc>
+    <credits>
+      <actor>Paul Winchell</actor>
+      <actor>Janet Waldo</actor>
+      <actor>John Stephenson</actor>
+      <actor>Don Messick</actor>
+      <actor>Dave Willock</actor>
+      <actor>Daws Butler</actor>
+      <director>Joseph Barbera</director>
+      <director>William Hanna</director>
+    </credits>
+    <date>1968</date>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Animação</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/07/20073198_604A4F02E1DD0D01.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125204000 +0000" stop="20241125204500 +0000">
+    <title lang="pt">A Pantera Cor-de-Rosa</title>
+    <desc lang="pt">As aventuras animadas da Pantera Cor-de-Rosa e de Crane, a cegonha perna fina.</desc>
+    <date>1978</date>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Animação</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/93/19939351_B93DF19BAC5A0E83.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125204500 +0000" stop="20241125211000 +0000">
+    <title lang="pt">Agente 86</title>
+    <desc lang="pt">Um agente secreto e muito atrapalhado tenta salvar o mundo da terrível organização KAOS.</desc>
+    <credits>
+      <actor>Don Adams</actor>
+      <actor>Edward Platt</actor>
+      <actor>Barbara Feldon</actor>
+    </credits>
+    <date>1965</date>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/08/20083334_C06ECD4C201C6A02.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125211000 +0000" stop="20241125213000 +0000">
+    <title lang="pt">Eu, a Patroa e as Crianças</title>
+    <desc lang="pt">Enquanto Michael Kyle tem como missão construir a tradicional família perfeita, sua mulher busca seu próprio caminho na vida.</desc>
+    <credits>
+      <actor>Jennifer Freeman</actor>
+      <actor>Brooklyn Sudano</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George O. Gore</actor>
+      <actor>Noah Gray-Cabey</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Andrew McFarlane</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/83/11835749_5E7AC41AA0370ECC.jpg" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125213000 +0000" stop="20241125223000 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+     </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125223000 +0000" stop="20241125224500 +0000">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11861052_9A054BF7ACE72D3E.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125224500 +0000" stop="20241125231000 +0000">
+    <title lang="pt">A Feiticeira</title>
+    <desc lang="pt">Basta torcer o nariz para Samantha usar seus poderes de bruxa. O problema é que seu marido, o publicitário James, quer que ela seja uma esposa normal e ignore sua mágica.</desc>
+    <credits>
+      <actor>Dick Sargent</actor>
+      <actor>Diane Murphy</actor>
+      <actor>George Tobias</actor>
+      <actor>Agnes Moorehead</actor>
+      <actor>Irene Vernon</actor>
+      <actor>David Lawrence</actor>
+      <actor>Alice Pearce</actor>
+      <actor>Kasey Rogers</actor>
+      <actor>David White</actor>
+      <actor>Sol Saks</actor>
+    </credits>
+    <date>1964</date>
+    <category lang="pt">Romance</category>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11858314_F21B32DA80ED328D.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241125231000 +0000" stop="20241126000000 +0000">
+    <title lang="pt">James West</title>
+    <desc lang="pt">A história de dois agentes secretos americanos no faroeste, o galante pistoleiro James West e Artemus Gordon, um inventor de parafernálias e mestre dos disfarces. A missão da dupla é proteger o presidente Ulysses S. Grant.</desc>
+    <credits>
+      <actor>Robert Conrad</actor>
+      <actor>Ross Martin</actor>
+    </credits>
+    <date>1965</date>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/53/20531215_1A97B8F5BCE583C4.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126000000 +0000" stop="20241126003000 +0000">
+    <title lang="pt">Beyblade</title>
+    <desc lang="pt">Adolescentes se enfrentam usando peões especiais conhecidos como Beyblades.</desc>
+    <credits>
+      <actor>Alex Hood</actor>
+      <actor>Marlowe Gardiner-Heslin</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Animação</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/20/16200142_7A14E283741EADA1.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126003000 +0000" stop="20241126013000 +0000">
+    <title lang="pt">Séries Douradas</title>
+    <desc lang="pt">Acompanhe as séries que trazem nostalgia ao telespectador.</desc>
+    <date>2019</date>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/94/11944651_0DFB3C95B9B371E7.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126013000 +0000" stop="20241126023000 +0000">
+    <title lang="pt">Columbo</title>
+    <desc lang="pt">O detetive Columbo resolve casos de homicídio em Los Angeles. Partindo dos mínimos detalhes, ele junta os pedaços do quebra-cabeça para desmontar os álibis e desvendar os crimes.</desc>
+    <credits>
+      <actor>Mike Lally</actor>
+      <actor>Vito Scotti</actor>
+      <actor>Shera Danese</actor>
+      <actor>Bruce Kirby</actor>
+      <actor>Peter Falk</actor>
+      <actor>John Finnegan</actor>
+      <director>Vincent McEveety</director>
+    </credits>
+    <date>1971</date>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Policial</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/93/19939639_8CB085BF1F7E5E0D.jpg" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126023000 +0000" stop="20241126030000 +0000">
+    <title lang="pt">Aqui Tudo Pode</title>
+    <desc lang="pt">A atração é marcada por encontros com grandes personalidades. Evandro Hazzy conecta o público não só ao mundo miss, mas também a personalidades que estão ligadas direta e indiretamente com a moda.</desc>
+    <credits>
+      <director>Maurício Donato</director>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Moda</category>
+    <category lang="pt">Talk Show</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/90/19909000_D518372D325D6D05.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126030000 +0000" stop="20241126040000 +0000">
+    <title lang="pt">Terra de Gigantes</title>
+    <desc lang="pt">Um grupo de pessoas aterrissa em um mundo doze vezes maior do que o nosso, habitado por gigantes.</desc>
+    <credits>
+      <actor>Stefan Arngrim</actor>
+      <actor>Kurt Kasznar</actor>
+      <actor>Kevin Hagen</actor>
+      <actor>Don Marshall</actor>
+      <actor>Deanna Lund</actor>
+      <actor>Heather Young</actor>
+      <actor>Don Matheson</actor>
+      <actor>Gary Conway</actor>
+    </credits>
+    <date>1968</date>
+    <category lang="pt">Ficção Cientifica</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11856800_887E252A1CDFABFD.jpg" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126040000 +0000" stop="20241126045000 +0000">
+    <title lang="pt">A Mulher-Maravilha</title>
+    <desc lang="pt">Conhecida como Mulher-Maravilha, Diana Prince luta contra bandidos e captura seus inimigos com seu laço mágico e seus braceletes da vitória.</desc>
+    <credits>
+      <actor>Lyle Waggoner</actor>
+      <actor>Lynda Carter</actor>
+      <actor>Norman Burton</actor>
+      <actor>Beatrice Colen</actor>
+      <actor>Richard Eastham</actor>
+      <actor>Saundra Sharp</actor>
+    </credits>
+    <date>1976</date>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/64/19642061_E54F6B22329D0523.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126045000 +0000" stop="20241126054000 +0000">
+    <title lang="pt">Missão: Impossível</title>
+    <desc lang="pt">Agentes da Força de Missões Impossíveis realizam ações perigosas para derrubar criminosos.</desc>
+    <credits>
+      <actor>Peter Graves</actor>
+      <actor>Martin Landau</actor>
+      <actor>Lynda Day George</actor>
+      <actor>Greg Morris</actor>
+      <actor>Bruce Geller</actor>
+      <actor>Barbara Bain</actor>
+      <actor>Lesley Ann Warren</actor>
+      <actor>Leonard Nimoy</actor>
+      <actor>Peter Lupus</actor>
+      <actor>Steven Hill</actor>
+    </credits>
+    <date>1966</date>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/22/18224069_0FBDA7E533988640.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126054000 +0000" stop="20241126064000 +0000">
+    <title lang="pt">Viagem ao Fundo do Mar</title>
+    <desc lang="pt">As façanhas da equipe do submarino nuclear &quot;The Seaview&quot;.</desc>
+    <credits>
+      <actor>Henry Kulky</actor>
+      <actor>Arch Whiting</actor>
+      <actor>David Hedison</actor>
+      <actor>Allan Hunt</actor>
+      <actor>Del Monroe</actor>
+      <actor>Richard Basehart</actor>
+      <actor>Paul Trinka</actor>
+      <actor>Richard Bull</actor>
+      <actor>Terry Becker</actor>
+      <actor>Robert Dowdell</actor>
+    </credits>
+    <date>1964</date>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/83/11835629_3D03095207E263C8.jpg" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126064000 +0000" stop="20241126071000 +0000">
+    <title lang="pt">Papai Sabe Tudo</title>
+    <desc lang="pt">Jim Anderson, um corretor de seguros simpático e sabichão, ajuda sua família a enfrentar os problemas do dia a dia.</desc>
+    <credits>
+      <actor>Robert Young</actor>
+      <actor>Vivi Janiss</actor>
+      <actor>Billy Gray</actor>
+      <actor>Robert Foulk</actor>
+      <actor>Yvonne Lime</actor>
+      <actor>Sarah Selby</actor>
+      <actor>Lauren Chapin</actor>
+      <actor>Elinor Donahue</actor>
+      <actor>Jimmy Bates</actor>
+      <actor>Jane Wyatt</actor>
+    </credits>
+    <date>1954</date>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/81/11814834_019773FF6A701B76.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126071000 +0000" stop="20241126074000 +0000">
+    <title lang="pt">Os Monstros</title>
+    <desc lang="pt">Em uma casa assustadora na rua Mockingbird vivem Os Monstros. Eles são honestos e de grande coração, porém não entendem porque os vizinhos desaparecem correndo de pavor quando eles chegam.</desc>
+    <credits>
+      <actor>Allan Burns</actor>
+      <actor>Beverley Owen</actor>
+      <actor>Chris Hayward</actor>
+      <actor>Yvonne De Carlo</actor>
+      <actor>Pat Priest</actor>
+      <actor>Al Lewis</actor>
+      <actor>Fred Gwynne</actor>
+      <actor>Butch Patrick</actor>
+    </credits>
+    <date>1964</date>
+    <category lang="pt">Comédia</category>
+    <category lang="pt">Terror</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/84/11847271_FCB239557623F6F7.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126074000 +0000" stop="20241126084000 +0000">
+    <title lang="pt">Perdidos no Espaço</title>
+    <desc lang="pt">As aventuras da família Robinson no espaço a bordo da nave Júpiter 2.</desc>
+    <credits>
+      <actor>Guy Williams</actor>
+      <actor>Jonathan Harris</actor>
+      <actor>Angela Cartwright</actor>
+      <actor>Marta Kristen</actor>
+      <actor>Irwin Allen</actor>
+      <actor>John Williams</actor>
+      <actor>Mark Goddard</actor>
+      <actor>Dick Tufeld</actor>
+      <actor>Bill Mumy</actor>
+      <actor>June Lockhart</actor>
+    </credits>
+    <date>1965</date>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Ficção Cientifica</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/15/36/15363308_E8B8E7744EC91068.jpg" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126084000 +0000" stop="20241126090000 +0000">
+    <title lang="pt">Os Três Patetas</title>
+    <desc lang="pt">Enquanto estrelam em filmes, Larry, Moe, Curly e às vezes Shemp, nos divertem com comédia de pastelão e se envolvem em muitas situações de violência, mas de contexto cômico.</desc>
+    <credits>
+      <actor>Larry Fine</actor>
+      <actor>Moe Howard</actor>
+      <actor>Ted Healy</actor>
+      <actor>Nancy Saunders</actor>
+      <actor>Curly Howard</actor>
+      <actor>Shemp Howard</actor>
+      <actor>Joe Besser</actor>
+      <director>Jack Cummings</director>
+      <director>Edward Bernds</director>
+    </credits>
+    <date>1934</date>
+    <category lang="pt">Comédia</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/96/20964071_05B06CA901C665EF.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126090000 +0000" stop="20241126091500 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126091500 +0000" stop="20241126092000 +0000">
+    <title lang="pt">Giramille</title>
+    <desc lang="pt">A professora Giramille e seus amigos ensinam de forma divertida e inteligente em um universo mágico.</desc>
+    <credits>
+      <actor>Diego Navarro</actor>
+      <director>Diego Navarro</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/05/20057683_58FFBD318C14416B.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126092000 +0000" stop="20241126094000 +0000">
+    <title lang="pt">O Diário de Mika</title>
+    <desc lang="pt">Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer. Junto de seus brinquedos, Puquê, Blablá, Bru, Javô, Abelhuda e Lilá, ela aprende sobre o mundo, vivendo incríveis aventuras e novas experiências.</desc>
+    <credits>
+      <director>Elizabeth Mendes</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/81/11818910_8EE37EC65C48C3EB.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126094000 +0000" stop="20241126095000 +0000">
+    <title lang="pt">RB Kids</title>
+    <desc lang="pt">Espaço destinado à exibição de desenhos infantis.</desc>
+    <date>2017</date>
+    <category lang="pt">Infantil</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11854889_07B0FF03F074DCFE.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+     </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126095000 +0000" stop="20241126101000 +0000">
+    <title lang="pt">Os Chocolix</title>
+    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia. Dona Branca, Don Cacau e seus filhos Chocomark e Chocholyne vivem grandes aventuras e ensinam conceitos de amizade e a importância da família.</desc>
+    <credits>
+      <director>Elizabeth Mendes</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Animação</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/84/11848320_E972A4200D48443E.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126101000 +0000" stop="20241126104000 +0000">
+    <title lang="pt">MuQiLing</title>
+    <desc lang="pt">Um menino é teletransportado para a Ilha da Sombra Verde e lá forma aliança com dois MuQiLing.</desc>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Anime</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/83/11836943_A658C930A78C3B51.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126104000 +0000" stop="20241126110000 +0000">
+    <title lang="pt">A Feiticeira</title>
+    <desc lang="pt">Basta torcer o nariz para Samantha usar seus poderes de bruxa. O problema é que seu marido, o publicitário James, quer que ela seja uma esposa normal e ignore sua mágica.</desc>
+    <credits>
+      <actor>Dick Sargent</actor>
+      <actor>Diane Murphy</actor>
+      <actor>George Tobias</actor>
+      <actor>Agnes Moorehead</actor>
+      <actor>Irene Vernon</actor>
+      <actor>David Lawrence</actor>
+      <actor>Alice Pearce</actor>
+      <actor>Kasey Rogers</actor>
+      <actor>David White</actor>
+      <actor>Sol Saks</actor>
+    </credits>
+    <date>1964</date>
+    <category lang="pt">Romance</category>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11858314_F21B32DA80ED328D.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126110000 +0000" stop="20241126121500 +0000">
+    <title lang="pt">Na Casa do Padre</title>
+    <desc lang="pt">Padre Alessandro Campos entrevista artistas sertanejos com muita música e histórias interessantes.</desc>
+    <date>2024</date>
+    <category lang="pt">Entrevista</category>
+    <category lang="pt">Musica</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/17/18171497_A4A344FBB90EB7F9.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126121500 +0000" stop="20241126124500 +0000">
+    <title lang="pt">Ateliê na TV</title>
+    <desc lang="pt">Humorado, irreverente e diversificado, Dotan Mayo apresenta as novidades e tendências do mundo do artesanato. Aprenda a fazer os mais variados trabalhos manuais, de decoração e pinturas à criação de roupas.</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/92/12922356_2B9F9C09575D67CD.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126124500 +0000" stop="20241126130000 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126130000 +0000" stop="20241126131500 +0000">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11861052_9A054BF7ACE72D3E.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126131500 +0000" stop="20241126133000 +0000">
+    <title lang="pt">RB Notícias</title>
+    <desc lang="pt">As notícias mais atualizadas do Brasil e do mundo.</desc>
+    <credits>
+      <actor>Camila Smith</actor>
+      <actor>Hermano Henning</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11855797_323B252F5EF8468E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126133000 +0000" stop="20241126150000 +0000">
+    <title lang="pt">Papo em Dia</title>
+    <desc lang="pt">Com um clima descontraído, o programa traz entrevistas exclusivas, convidados especiais, música, gastronomia, saúde e variedades.</desc>
+    <date>2018</date>
+    <category lang="pt">Culinária</category>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/98/12982393_7D29E56A840B55D6.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126150000 +0000" stop="20241126160000 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126160000 +0000" stop="20241126162000 +0000">
+    <title lang="pt">Hino à Alegria</title>
+    <desc lang="pt">Cinco mulheres de diferentes origens, sonhos e personalidades vivem no mesmo complexo de apartamentos em Xangai, na China. Elas passam a ser amigas e compartilhar as alegrias e tristezas do dia a dia.</desc>
+    <credits>
+      <actor>Zi Yang</actor>
+      <actor>Wang Ziwen</actor>
+      <actor>Qiao Xin</actor>
+      <actor>Liu Tao</actor>
+      <actor>Jiang Xin</actor>
+      <director>Jian Chuanhe</director>
+      <director>Kong Sheng</director>
+      <director>Zhang Kaizhou</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/67/18675256_4E32C01F0C5AAE2B.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126162000 +0000" stop="20241126163000 +0000">
+    <title lang="pt">RB Notícias</title>
+    <desc lang="pt">As notícias mais atualizadas do Brasil e do mundo.</desc>
+    <credits>
+      <actor>Camila Smith</actor>
+      <actor>Hermano Henning</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11855797_323B252F5EF8468E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126163000 +0000" stop="20241126173000 +0000">
+    <title lang="pt">Mulher 360</title>
+    <desc lang="pt">Com uma visão inclusiva, o programa destaca-se ao proporcionar um espaço que reconhece e celebra as diversas facetas da mulher contemporânea.</desc>
+    <date>2023</date>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/72/17729061_DA5C9DF476C99511.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126173000 +0000" stop="20241126174500 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126174500 +0000" stop="20241126180000 +0000">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11861052_9A054BF7ACE72D3E.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126180000 +0000" stop="20241126193000 +0000">
+    <title lang="pt">Tarde Top</title>
+    <desc lang="pt">Nani Venâncio traz informação e entretenimento, com entrevistas, saúde, fofoca e variedades.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/84/11843905_6ED5A9C79411C84D.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126193000 +0000" stop="20241126194500 +0000">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11861052_9A054BF7ACE72D3E.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126194500 +0000" stop="20241126200000 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126200000 +0000" stop="20241126203000 +0000">
+    <title lang="pt">Oração da Noite</title>
+    <desc lang="pt">Momento reflexivo de oração.</desc>
+    <date>2024</date>
+    <category lang="pt">Religioso</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/17/18171470_5DB443F2CC01A8D5.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126203000 +0000" stop="20241126204000 +0000">
+    <title lang="pt">Corrida Maluca</title>
+    <desc lang="pt">Dez pilotos disputam corridas pelo país em seus carros malucos e cheios de estilo. O corredor Dick Vigarista está sempre pronto para passar seus adversários para trás, mas seu orgulho acaba atrapalhando até mesmo suas trapaças.</desc>
+    <credits>
+      <actor>Paul Winchell</actor>
+      <actor>Janet Waldo</actor>
+      <actor>John Stephenson</actor>
+      <actor>Don Messick</actor>
+      <actor>Dave Willock</actor>
+      <actor>Daws Butler</actor>
+      <director>Joseph Barbera</director>
+      <director>William Hanna</director>
+    </credits>
+    <date>1968</date>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Animação</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/07/20073198_604A4F02E1DD0D01.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126204000 +0000" stop="20241126204500 +0000">
+    <title lang="pt">A Pantera Cor-de-Rosa</title>
+    <desc lang="pt">As aventuras animadas da Pantera Cor-de-Rosa e de Crane, a cegonha perna fina.</desc>
+    <date>1978</date>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Animação</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/93/19939351_B93DF19BAC5A0E83.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126204500 +0000" stop="20241126211000 +0000">
+    <title lang="pt">Agente 86</title>
+    <desc lang="pt">Um agente secreto e muito atrapalhado tenta salvar o mundo da terrível organização KAOS.</desc>
+    <credits>
+      <actor>Don Adams</actor>
+      <actor>Edward Platt</actor>
+      <actor>Barbara Feldon</actor>
+    </credits>
+    <date>1965</date>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/08/20083334_C06ECD4C201C6A02.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126211000 +0000" stop="20241126213000 +0000">
+    <title lang="pt">Eu, a Patroa e as Crianças</title>
+    <desc lang="pt">Enquanto Michael Kyle tem como missão construir a tradicional família perfeita, sua mulher busca seu próprio caminho na vida.</desc>
+    <credits>
+      <actor>Jennifer Freeman</actor>
+      <actor>Brooklyn Sudano</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George O. Gore</actor>
+      <actor>Noah Gray-Cabey</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Andrew McFarlane</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/83/11835749_5E7AC41AA0370ECC.jpg" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126213000 +0000" stop="20241126214500 +0000">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11861052_9A054BF7ACE72D3E.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126214500 +0000" stop="20241126223000 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126223000 +0000" stop="20241127010000 +0000">
+    <title lang="pt">Programa Padre Alessandro Campos</title>
+    <desc lang="pt">Muita música, celebração, diversão e informação com o religioso que conquistou o Brasil.</desc>
+    <date>2024</date>
+    <category lang="pt">Religioso</category>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/28/18281253_E9B56D81DBB975EE.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127010000 +0000" stop="20241127030000 +0000">
+    <title lang="pt">Sessão Faroeste</title>
+    <desc lang="pt">Seleção dos melhores filmes de faroeste.</desc>
+    <date>2024</date>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/63/18635916_71754A33FFA5C0A1.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127030000 +0000" stop="20241127034000 +0000">
+    <title lang="pt">Séries de Ouro</title>
+    <desc lang="pt">Acompanhe o programa que faz um túnel do tempo com seriados clássicos.</desc>
+    <date>2019</date>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11853952_ED76F04766E0C224.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127034000 +0000" stop="20241127044000 +0000">
+    <title lang="pt">Viagem ao Fundo do Mar</title>
+    <desc lang="pt">As façanhas da equipe do submarino nuclear &quot;The Seaview&quot;.</desc>
+    <credits>
+      <actor>Henry Kulky</actor>
+      <actor>Arch Whiting</actor>
+      <actor>David Hedison</actor>
+      <actor>Allan Hunt</actor>
+      <actor>Del Monroe</actor>
+      <actor>Richard Basehart</actor>
+      <actor>Paul Trinka</actor>
+      <actor>Richard Bull</actor>
+      <actor>Terry Becker</actor>
+      <actor>Robert Dowdell</actor>
+    </credits>
+    <date>1964</date>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/83/11835629_3D03095207E263C8.jpg" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127044000 +0000" stop="20241127053000 +0000">
+    <title lang="pt">The Flash</title>
+    <desc lang="pt">Acidentalmente, um funcionário da Polícia Científica foi banhado por produtos químicos em seu laboratório e, a partir daí, começou a se locomover em uma velocidade altíssima.</desc>
+    <credits>
+      <actor>Amanda Pays</actor>
+      <actor>John Wesley Shipp</actor>
+      <actor>Vito D&apos;Ambrosio</actor>
+      <actor>Alex Désert</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Ficção Cientifica</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/15/36/15363323_0B9011D2469F8E04.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+      </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127053000 +0000" stop="20241127060000 +0000">
+    <title lang="pt">Papai Sabe Tudo</title>
+    <desc lang="pt">Jim Anderson, um corretor de seguros simpático e sabichão, ajuda sua família a enfrentar os problemas do dia a dia.</desc>
+    <credits>
+      <actor>Robert Young</actor>
+      <actor>Vivi Janiss</actor>
+      <actor>Billy Gray</actor>
+      <actor>Robert Foulk</actor>
+      <actor>Yvonne Lime</actor>
+      <actor>Sarah Selby</actor>
+      <actor>Lauren Chapin</actor>
+      <actor>Elinor Donahue</actor>
+      <actor>Jimmy Bates</actor>
+      <actor>Jane Wyatt</actor>
+    </credits>
+    <date>1954</date>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/81/11814834_019773FF6A701B76.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127060000 +0000" stop="20241127063000 +0000">
+    <title lang="pt">A Família Addams</title>
+    <desc lang="pt">A Família Addams é uma família que tem prazer na maioria das coisas que pessoas normais teriam medo. Gomez Addams é muito rico e incapaz de negar algo à sua cadavérica esposa Morticia Addams. Os filhos do casal são os esquisitos Vandinha e Feioso.</desc>
+    <credits>
+      <actor>Ken Weatherwax</actor>
+      <actor>Jack Coogan</actor>
+      <actor>Carolyn Jones</actor>
+      <actor>David Levy</actor>
+      <actor>Ted Cassidy</actor>
+      <actor>John Astin</actor>
+      <actor>Lisa Loring</actor>
+      <actor>Felix Silla</actor>
+      <actor>Blossom Rock</actor>
+    </credits>
+    <date>1964</date>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/79/11792150_768E90914CFEC18F.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127063000 +0000" stop="20241127070000 +0000">
+    <title lang="pt">A Águia de Prata</title>
+    <desc lang="pt">O Águia precisa lutar contra uma grande corporação que sujou o seu nome.</desc>
+    <date>1932</date>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Policial</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/05/20058055_D84A6CAA9C555757.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127070000 +0000" stop="20241127080000 +0000">
+    <title lang="pt">Viagem ao Fundo do Mar</title>
+    <desc lang="pt">As façanhas da equipe do submarino nuclear &quot;The Seaview&quot;.</desc>
+    <credits>
+      <actor>Henry Kulky</actor>
+      <actor>Arch Whiting</actor>
+      <actor>David Hedison</actor>
+      <actor>Allan Hunt</actor>
+      <actor>Del Monroe</actor>
+      <actor>Richard Basehart</actor>
+      <actor>Paul Trinka</actor>
+      <actor>Richard Bull</actor>
+      <actor>Terry Becker</actor>
+      <actor>Robert Dowdell</actor>
+    </credits>
+    <date>1964</date>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/83/11835629_3D03095207E263C8.jpg" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127080000 +0000" stop="20241127090000 +0000">
+    <title lang="pt">Perdidos no Espaço</title>
+    <desc lang="pt">As aventuras da família Robinson no espaço a bordo da nave Júpiter 2.</desc>
+    <credits>
+      <actor>Guy Williams</actor>
+      <actor>Jonathan Harris</actor>
+      <actor>Angela Cartwright</actor>
+      <actor>Marta Kristen</actor>
+      <actor>Irwin Allen</actor>
+      <actor>John Williams</actor>
+      <actor>Mark Goddard</actor>
+      <actor>Dick Tufeld</actor>
+      <actor>Bill Mumy</actor>
+      <actor>June Lockhart</actor>
+    </credits>
+    <date>1965</date>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Ficção Cientifica</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/15/36/15363308_E8B8E7744EC91068.jpg" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127090000 +0000" stop="20241127091500 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127091500 +0000" stop="20241127092000 +0000">
+    <title lang="pt">Giramille</title>
+    <desc lang="pt">A professora Giramille e seus amigos ensinam de forma divertida e inteligente em um universo mágico.</desc>
+    <credits>
+      <actor>Diego Navarro</actor>
+      <director>Diego Navarro</director>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/05/20057683_58FFBD318C14416B.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127092000 +0000" stop="20241127094000 +0000">
+    <title lang="pt">O Diário de Mika</title>
+    <desc lang="pt">Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer. Junto de seus brinquedos, Puquê, Blablá, Bru, Javô, Abelhuda e Lilá, ela aprende sobre o mundo, vivendo incríveis aventuras e novas experiências.</desc>
+    <credits>
+      <director>Elizabeth Mendes</director>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Animação</category>
+    <category lang="pt">Educativo</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/81/11818910_8EE37EC65C48C3EB.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127094000 +0000" stop="20241127095000 +0000">
+    <title lang="pt">RB Kids</title>
+    <desc lang="pt">Espaço destinado à exibição de desenhos infantis.</desc>
+    <date>2017</date>
+    <category lang="pt">Infantil</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11854889_07B0FF03F074DCFE.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127095000 +0000" stop="20241127101000 +0000">
+    <title lang="pt">Os Chocolix</title>
+    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia. Dona Branca, Don Cacau e seus filhos Chocomark e Chocholyne vivem grandes aventuras e ensinam conceitos de amizade e a importância da família.</desc>
+    <credits>
+      <director>Elizabeth Mendes</director>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Animação</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/84/11848320_E972A4200D48443E.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127101000 +0000" stop="20241127104000 +0000">
+    <title lang="pt">MuQiLing</title>
+    <desc lang="pt">Um menino é teletransportado para a Ilha da Sombra Verde e lá forma aliança com dois MuQiLing.</desc>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Anime</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/83/11836943_A658C930A78C3B51.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127104000 +0000" stop="20241127110000 +0000">
+    <title lang="pt">A Feiticeira</title>
+    <desc lang="pt">Basta torcer o nariz para Samantha usar seus poderes de bruxa. O problema é que seu marido, o publicitário James, quer que ela seja uma esposa normal e ignore sua mágica.</desc>
+    <credits>
+      <actor>Dick Sargent</actor>
+      <actor>Diane Murphy</actor>
+      <actor>George Tobias</actor>
+      <actor>Agnes Moorehead</actor>
+      <actor>Irene Vernon</actor>
+      <actor>David Lawrence</actor>
+      <actor>Alice Pearce</actor>
+      <actor>Kasey Rogers</actor>
+      <actor>David White</actor>
+      <actor>Sol Saks</actor>
+    </credits>
+    <date>1964</date>
+    <category lang="pt">Romance</category>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11858314_F21B32DA80ED328D.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127110000 +0000" stop="20241127121500 +0000">
+    <title lang="pt">Na Casa do Padre</title>
+    <desc lang="pt">Padre Alessandro Campos entrevista artistas sertanejos com muita música e histórias interessantes.</desc>
+    <date>2024</date>
+    <category lang="pt">Entrevista</category>
+    <category lang="pt">Musica</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/17/18171497_A4A344FBB90EB7F9.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127121500 +0000" stop="20241127124500 +0000">
+    <title lang="pt">Ateliê na TV</title>
+    <desc lang="pt">Humorado, irreverente e diversificado, Dotan Mayo apresenta as novidades e tendências do mundo do artesanato. Aprenda a fazer os mais variados trabalhos manuais, de decoração e pinturas à criação de roupas.</desc>
+    <date>2007</date>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/92/12922356_2B9F9C09575D67CD.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127124500 +0000" stop="20241127130000 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127130000 +0000" stop="20241127131500 +0000">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11861052_9A054BF7ACE72D3E.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127131500 +0000" stop="20241127133000 +0000">
+    <title lang="pt">RB Notícias</title>
+    <desc lang="pt">As notícias mais atualizadas do Brasil e do mundo.</desc>
+    <credits>
+      <actor>Camila Smith</actor>
+      <actor>Hermano Henning</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11855797_323B252F5EF8468E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127133000 +0000" stop="20241127150000 +0000">
+    <title lang="pt">Papo em Dia</title>
+    <desc lang="pt">Com um clima descontraído, o programa traz entrevistas exclusivas, convidados especiais, música, gastronomia, saúde e variedades.</desc>
+    <date>2018</date>
+    <category lang="pt">Culinária</category>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/98/12982393_7D29E56A840B55D6.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127150000 +0000" stop="20241127160000 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127160000 +0000" stop="20241127162000 +0000">
+    <title lang="pt">Hino à Alegria</title>
+    <desc lang="pt">Cinco mulheres de diferentes origens, sonhos e personalidades vivem no mesmo complexo de apartamentos em Xangai, na China. Elas passam a ser amigas e compartilhar as alegrias e tristezas do dia a dia.</desc>
+    <credits>
+      <actor>Zi Yang</actor>
+      <actor>Wang Ziwen</actor>
+      <actor>Qiao Xin</actor>
+      <actor>Liu Tao</actor>
+      <actor>Jiang Xin</actor>
+      <director>Jian Chuanhe</director>
+      <director>Kong Sheng</director>
+      <director>Zhang Kaizhou</director>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Novela</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/67/18675256_4E32C01F0C5AAE2B.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127162000 +0000" stop="20241127163000 +0000">
+    <title lang="pt">RB Notícias</title>
+    <desc lang="pt">As notícias mais atualizadas do Brasil e do mundo.</desc>
+    <credits>
+      <actor>Camila Smith</actor>
+      <actor>Hermano Henning</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11855797_323B252F5EF8468E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127163000 +0000" stop="20241127173000 +0000">
+    <title lang="pt">Mulher 360</title>
+    <desc lang="pt">Com uma visão inclusiva, o programa destaca-se ao proporcionar um espaço que reconhece e celebra as diversas facetas da mulher contemporânea.</desc>
+    <date>2023</date>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/72/17729061_DA5C9DF476C99511.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127173000 +0000" stop="20241127174500 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127174500 +0000" stop="20241127180000 +0000">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11861052_9A054BF7ACE72D3E.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127180000 +0000" stop="20241127190000 +0000">
+    <title lang="pt">Tarde Top</title>
+    <desc lang="pt">Nani Venâncio traz informação e entretenimento, com entrevistas, saúde, fofoca e variedades.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/84/11843905_6ED5A9C79411C84D.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127190000 +0000" stop="20241127193000 +0000">
+    <title lang="pt">Punky, a Levada da Breca</title>
+    <desc lang="pt">Penélope &quot;Punky&quot; Brewster é uma garota bem-humorada, abandonada pelos pais. Na companhia do seu cão Pinky, descobre um apartamento vago num prédio e passa a viver lá. O administrador do prédio a adota e com suas amigas passa por grandes aventuras.</desc>
+    <credits>
+      <actor>Eddie Deezen</actor>
+      <actor>Ami Foster</actor>
+      <actor>Soleil Moon Frye</actor>
+      <actor>David W. Duclon</actor>
+      <actor>Cherie Johnson</actor>
+      <actor>T.K. Carter</actor>
+      <actor>Susie Garrett</actor>
+      <actor>George Gaynes</actor>
+    </credits>
+    <date>1984</date>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/84/20844470_DBFCDDD05A582550.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127193000 +0000" stop="20241127194500 +0000">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11861052_9A054BF7ACE72D3E.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127194500 +0000" stop="20241127200000 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127200000 +0000" stop="20241127203000 +0000">
+    <title lang="pt">Oração da Noite</title>
+    <desc lang="pt">Momento reflexivo de oração.</desc>
+    <date>2024</date>
+    <category lang="pt">Religioso</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/17/18171470_5DB443F2CC01A8D5.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127203000 +0000" stop="20241127204000 +0000">
+    <title lang="pt">Corrida Maluca</title>
+    <desc lang="pt">Dez pilotos disputam corridas pelo país em seus carros malucos e cheios de estilo. O corredor Dick Vigarista está sempre pronto para passar seus adversários para trás, mas seu orgulho acaba atrapalhando até mesmo suas trapaças.</desc>
+    <credits>
+      <actor>Paul Winchell</actor>
+      <actor>Janet Waldo</actor>
+      <actor>John Stephenson</actor>
+      <actor>Don Messick</actor>
+      <actor>Dave Willock</actor>
+      <actor>Daws Butler</actor>
+      <director>Joseph Barbera</director>
+      <director>William Hanna</director>
+    </credits>
+    <date>1968</date>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Animação</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/07/20073198_604A4F02E1DD0D01.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127204000 +0000" stop="20241127204500 +0000">
+    <title lang="pt">A Pantera Cor-de-Rosa</title>
+    <desc lang="pt">As aventuras animadas da Pantera Cor-de-Rosa e de Crane, a cegonha perna fina.</desc>
+    <date>1978</date>
+    <category lang="pt">Aventura</category>
+    <category lang="pt">Animação</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/93/19939351_B93DF19BAC5A0E83.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127204500 +0000" stop="20241127211000 +0000">
+    <title lang="pt">Agente 86</title>
+    <desc lang="pt">Um agente secreto e muito atrapalhado tenta salvar o mundo da terrível organização KAOS.</desc>
+    <credits>
+      <actor>Don Adams</actor>
+      <actor>Edward Platt</actor>
+      <actor>Barbara Feldon</actor>
+    </credits>
+    <date>1965</date>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/08/20083334_C06ECD4C201C6A02.jpg" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127211000 +0000" stop="20241127213000 +0000">
+    <title lang="pt">Eu, a Patroa e as Crianças</title>
+    <desc lang="pt">Enquanto Michael Kyle tem como missão construir a tradicional família perfeita, sua mulher busca seu próprio caminho na vida.</desc>
+    <credits>
+      <actor>Jennifer Freeman</actor>
+      <actor>Brooklyn Sudano</actor>
+      <actor>Tisha Campbell-Martin</actor>
+      <actor>Parker McKenna Posey</actor>
+      <actor>George O. Gore</actor>
+      <actor>Noah Gray-Cabey</actor>
+      <actor>Damon Wayans</actor>
+      <actor>Andrew McFarlane</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Sitcom</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/83/11835749_5E7AC41AA0370ECC.jpg" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127213000 +0000" stop="20241127223000 +0000">
+    <title lang="pt">Brasil News</title>
+    <desc lang="pt">Os principais destaques do noticiário nacional e internacional, com um formato ágil e dinâmico.</desc>
+    <credits>
+      <actor>Hermano Henning</actor>
+      <actor>Nei Gonçalves Dias</actor>
+      <actor>Thalita Oliveira</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/33/19330514_566C3E566884AF4E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127223000 +0000" stop="20241127224500 +0000">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/86/11861052_9A054BF7ACE72D3E.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127224500 +0000" stop="20241127230000 +0000">
+    <title lang="pt">RB Notícias</title>
+    <desc lang="pt">As notícias mais atualizadas do Brasil e do mundo.</desc>
+    <credits>
+      <actor>Camila Smith</actor>
+      <actor>Hermano Henning</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Reportagem</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11855797_323B252F5EF8468E.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241127230000 +0000" stop="20241128003000 +0000">
+    <title lang="pt">Na Casa do Padre</title>
+    <desc lang="pt">Padre Alessandro Campos entrevista artistas sertanejos com muita música e histórias interessantes.</desc>
+    <date>2024</date>
+    <category lang="pt">Entrevista</category>
+    <category lang="pt">Musica</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/17/18171497_A4A344FBB90EB7F9.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+       </programme>
+</tv>
