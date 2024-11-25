@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Xmltv-Merge V1.0.0">
    <channel id="Rede.Brasil.HD.br">
-    <url>hhttp://www.vivo.com.br/</url>
+    <url>https://rbtv.com.br/</url>
     <display-name lang="pt">Rede Brasil HD</display-name>
   </channel>
 <programme channel="Rede.Brasil.HD.br" start="20241124150000 +0000" stop="20241124160000 +0000">
