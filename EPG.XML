@@ -9,7 +9,10 @@
   <retry time-out="5">4</retry>
   <timespan>2</timespan>
   <update>s</update>
-  <channels>
-   <channel update="i" site="https://www.tvprogramacao.com/epg/today" site_id="6" xmltv_id="Rede Brasil">Rede Brasil</channel>
+  </channel>
+  <channel id="Rede.Brasil.HD.br">
+    <url>http://www.vivo.com.br</url>
+    <display-name lang="pt">Rede Brasil HD</display-name>
+  </channel>
   <channels>		
 </settings>
