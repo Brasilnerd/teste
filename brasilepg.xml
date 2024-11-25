@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Xmltv-Merge V1.0.0">
+   <channel id="Rede.Brasil.HD.br">
+    <url>https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w682489330.m3u8/</url>
+    <display-name lang="pt">Rede Brasil HD</display-name>
+  </channel>
+ <programme channel="Rede.Brasil.HD.br" start="20241126030000 +0000" stop="20241126040000 +0000">
+    <title lang="pt">Séries de Ouro: Terra de Gigantes</title>
+    <desc lang="pt">Um grupo de pessoas aterrissa em um mundo doze vezes maior do que o nosso, habitado por gigantes.</desc>
+    <credits>
+      <actor>Stefan Arngrim</actor>
+      <actor>Kurt Kasznar</actor>
+      <actor>Kevin Hagen</actor>
+      <actor>Don Marshall</actor>
+      <actor>Deanna Lund</actor>
+      <actor>Heather Young</actor>
+      <actor>Don Matheson</actor>
+      <actor>Gary Conway</actor>
+    </credits>
+    <date>1968</date>
+    <category lang="pt">Ficção Cientifica</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/85/11856800_887E252A1CDFABFD.jpg" />
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+   <programme channel="Rede.Brasil.HD.br" start="20241126040000 +0000" stop="20241126045000 +0000">
+    <title lang="pt">Séries de Ouro: A Mulher Biônica</title>
+    <desc lang="pt">Conhecida como Mulher-Maravilha, Diana Prince luta contra bandidos e captura seus inimigos com seu laço mágico e seus braceletes da vitória.</desc>
+    <credits>
+      <actor>Lyle Waggoner</actor>
+      <actor>Lynda Carter</actor>
+      <actor>Norman Burton</actor>
+      <actor>Beatrice Colen</actor>
+      <actor>Richard Eastham</actor>
+      <actor>Saundra Sharp</actor>
+    </credits>
+    <date>1976</date>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/64/19642061_E54F6B22329D0523.jpg" />
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme channel="Rede.Brasil.HD.br" start="20241126045000 +0000" stop="20241126054000 +0000">
+    <title lang="pt">Séries de Ouro: Missão: Impossível</title>
+    <desc lang="pt">Agentes da Força de Missões Impossíveis realizam ações perigosas para derrubar criminosos.</desc>
+    <credits>
+      <actor>Peter Graves</actor>
+      <actor>Martin Landau</actor>
+      <actor>Lynda Day George</actor>
+      <actor>Greg Morris</actor>
+      <actor>Bruce Geller</actor>
+      <actor>Barbara Bain</actor>
+      <actor>Lesley Ann Warren</actor>
+      <actor>Leonard Nimoy</actor>
+      <actor>Peter Lupus</actor>
+      <actor>Steven Hill</actor>
+    </credits>
+    <date>1966</date>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/22/18224069_0FBDA7E533988640.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
