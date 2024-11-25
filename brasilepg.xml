@@ -1,6 +1,1497 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz" generated-ts="1732570431">
-  <channel id="Rede.Brasil.HD.br">
-    <display-name>Rede.Brasil</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Marca_rede_brasil_rgb-color.png/567px-Marca_rede_brasil_rgb-color.png"/>
-  </channel>
-   </tv>
+<!DOCTYPE html>
+<html lang="pt" xml:lang="pt" prefix="fb: http://ogp.me/ns/fb#">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+    <meta charset="utf-8" />
+        <title>Programa&#xE7;&#xE3;o de hoje da Rede Brasil</title>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <meta http-equiv="content-language" content="pt" />
+    <meta name="googlebot" content="index,follow" />
+    <meta name="robots" content="index,follow" />
+    <meta name="country" content="brazil,brasil,BR" />
+    <meta name="geo.country" content="BR" />
+    <meta name="city" content="São Paulo, SP, Brasil" />
+    <meta name="geo.placename" content="São Paulo, Brasil" />
+    <meta name="geo.region" content="BR-SaoPaulo" />
+
+
+    <link rel="shortcut icon" href="/favicon.ico?v=2" type="image/x-icon" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/images/tvmap-tv-16.png">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=4" />
+
+        <meta name="description" content="Programa&#xE7;&#xE3;o de hoje da Rede Brasil">
+        <meta name="subject" content="Programa&#xE7;&#xE3;o de hoje da Rede Brasil">
+        <meta name="keywords" content="guia de programa&#xE7;&#xE3;o, programa&#xE7;&#xE3;o da Rede Brasil, o que est&#xE1; passando hojena Rede Brasil">
+
+
+    <!-- facebook -->
+    <meta property="og:title" content="Programa&#xE7;&#xE3;o de hoje da Rede Brasil" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://tvmap.com.br/Rede-Brasil" />
+    <meta property="og:image" content="http://www.tvmap.com.br/images/tvmap200.png" />
+    <meta property="og:image:width" content="488" />
+    <meta property="og:image:height" content="200" />
+    <meta property="og:image" content="http://www.tvmap.com.br/images/tvmap500.png" />
+    <meta property="og:image:width" content="500" />
+    <meta property="og:image:height" content="500" />
+    <meta property="og:image" content="http://www.tvmap.com.br/images/tvmap-tv2.jpg" />
+    <meta property="og:image:width" content="399" />
+    <meta property="og:image:height" content="395" />
+    <meta property="og:site_name" content="TV map" />
+    <meta property="fb:app_id" content="480960495260114" />
+    <meta property="fb:admins" content="674422913" />
+        <meta property="og:description" content="Programa&#xE7;&#xE3;o de hoje da Rede Brasil" />
+
+
+            <link type='text/css' href='/simplemodalcss/basic.css?v466b58a49-7992-4695-a837-188a18baa6b7' rel='stylesheet' media='screen' />
+            <link href="/css/typeahead.js-bootstrap.css" rel="stylesheet" media="screen">
+            <!-- IE6 "fix" for the close png image -->
+            <!--[if lt IE 7]>
+            <link type='text/css' href='/simplemodalcss/basic_ie.css' rel='stylesheet' media='screen' />
+            <![endif]-->
+
+
+    <link rel="stylesheet" type="text/css" media="screen,print" href='/Content/zc-base.css?v=3' /> <!-- TODO: asp-append-version="true" -->
+    <link rel='stylesheet' type='text/css' media='print' href='/Content/zc-print.css?v=2' />
+
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <link href="/Content/Site.css?v=3" rel="stylesheet" type="text/css" />
+    <link href="/Content/tvmap.css?v=28d5302b03-6870-4f21-99c0-cf7e93360e8a" rel="stylesheet" type="text/css" />
+    <link href="/Content/tvmapcomments.css?v=2" rel="stylesheet" type="text/css" />
+
+
+    <script src="/Scripts/modernizr-2.5.3.js" type="text/javascript"></script>
+
+    <!--
+    <link rel="stylesheet" href="http://cobrand.sympatico.ca/Bell.Sympatico.CMS/Styles/JE/SMSN_cobrand_fox_symmsn_main.css" type="text/css" media="all" charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="http://cobrand.sympatico.ca/Bell.Sympatico.CMS/Styles/JE/SMSN_cobrand_color_dgray_red.css">
+    -->
+    <script src="/Scripts/respond.min.js" type="text/javascript"></script>
+
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MZE69JZ9F7"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-MZE69JZ9F7');
+    </script>
+
+    <script data-ad-client="ca-pub-6379498189335806" async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+</head>
+<body class=" channel ">
+
+        <!-- modal content -->
+        <div b-u5qlm61hto id="modal-login">
+<form action="/Account/ExternalLogin" method="post">        <div class="lightbox-wrapper">
+            <div class="lightbox-header">
+                <h4>Acesse sua conta</h4>
+            </div>
+            <div class="lightbox-content">
+                <div class="babel-login login">
+                    <div class="half-block register">
+                        <h5>Faça login pelas redes sociais</h5>
+                        <ul class="babel-social-login" style="padding: 0;">
+                            <li class="facebook" rel="facebook-login">facebook</li>
+                        </ul>
+                        <p class="link-paragraph">Leia os <a href="/Termos">termos de uso</a></p>
+                    </div>
+                    <br class="clear">
+                </div>
+            </div>
+        </div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8BQMDSC3dBRGrOAoQcsWzRL8kUmYz8_HykLSf22uyuZrFDKYw5fNz8BGjttTSruxomq2NePZyzQd-FpsYiuYVp74JvrV93Ijuxoerm2hJVqxXm64enfWDHVWb_FFoYlMMTDeeANxD7sOagAHnshzL30" /></form>
+
+        </div>
+
+
+
+
+
+    <div b-u5qlm61hto id="fb-root">
+    </div>
+
+    <a b-u5qlm61hto id="top" style="position: absolute;top: -200px;"></a> 
+    <header b-u5qlm61hto>
+
+
+        <nav b-u5qlm61hto class="navbar navbar-fixed-top navbar-default" id="navbar-fixed-top" role="navigation">
+            <div b-u5qlm61hto class="container tmcontainer" id="header_nav">
+
+                <div b-u5qlm61hto class="navbar-header">
+                    <button b-u5qlm61hto type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                        <span b-u5qlm61hto class="sr-only">Toggle navigation</span>
+                        <span b-u5qlm61hto class="icon-bar"></span>
+                        <span b-u5qlm61hto class="icon-bar"></span>
+                        <span b-u5qlm61hto class="icon-bar"></span>
+                    </button>
+                    <a b-u5qlm61hto class="navbar-brand" href="/" id="watchinglogo" rel="home" title="TV map - o que você quer ver hoje?"></a>
+                </div>
+
+
+
+
+                <div b-u5qlm61hto class="collapse navbar-collapse navbar-ex1-collapse" id="main-menu">
+
+
+                    <div b-u5qlm61hto class="nav showtooltip navbar-nav hidden-sm contentboxsizing" id="social_fb_buttons" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Ajude-nos a divulgar o site">
+                        <div b-u5qlm61hto id="fblike">
+                            <fb:like b-u5qlm61hto href="https://www.facebook.com/TVmap" send="false" layout="button_count"
+                                     show_faces="false" font="arial">
+                            </fb:like>
+                        </div>
+                        <div b-u5qlm61hto id="fbsend">
+                            <fb:send b-u5qlm61hto href="http://www.tvmap.com.br" font="arial">
+                            </fb:send>
+                        </div>
+
+                        <!-- Place this tag after the last +1 button tag. -->
+                        <script type="text/javascript">
+                            (function () {
+                                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                                po.src = 'https://apis.google.com/js/plusone.js';
+                                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                            })();
+                        </script>
+                        <div b-u5qlm61hto id="twitter" style="opacity:0;">
+                            <a b-u5qlm61hto href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.tvmap.com.br" data-text="Guia de Programação da TV Brasileira" data-lang="pt">Tweetar</a>
+                            <script>
+                                !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");
+                                setTimeout(function () {
+                                    $('#twitter').css('opacity', '1')
+                                }, 2000);
+                            </script>
+                        </div>
+
+                    </div>
+
+
+                    <div id="authForms">
+<form action="/Account/ExternalLogin?ReturnUrl=%2FFavoritos" class="form-control" id="facebookLoginForm" method="post" style="display:none">Microsoft.AspNetCore.Mvc.ViewFeatures.AntiforgeryExtensions+InputContent<input id="provider_facebook1" name="provider" type="hidden" value="facebook" /></form><form action="/Account/ExternalLogin?ReturnUrl=%2FFavoritos" class="form-control" id="facebookLoginFormP" method="post" style="display:none">Microsoft.AspNetCore.Mvc.ViewFeatures.AntiforgeryExtensions+InputContent<input id="provider_facebook2" name="provider" type="hidden" value="facebook" /><input id="provider_facebook3" name="popup" type="hidden" value="popup" /></form><form action="/Account/ExternalLogin?ReturnUrl=%2FFavoritos" class="form-control" id="twitterLoginForm" method="post" style="display:none">Microsoft.AspNetCore.Mvc.ViewFeatures.AntiforgeryExtensions+InputContent<input id="provider_twitter1" name="provider" type="hidden" value="twitter" /></form><form action="/Account/ExternalLogin?ReturnUrl=%2FFavoritos" class="form-control" id="twitterLoginFormP" method="post" style="display:none">Microsoft.AspNetCore.Mvc.ViewFeatures.AntiforgeryExtensions+InputContent<input id="provider_twitter2" name="provider" type="hidden" value="twitter" /><input id="provider_twitter3" name="popup" type="hidden" value="popup" /></form><form action="/Account/ExternalLogin?ReturnUrl=%2FFavoritos" class="form-control" id="googleLoginForm" method="post" style="display:none">Microsoft.AspNetCore.Mvc.ViewFeatures.AntiforgeryExtensions+InputContent<input id="provider_google1" name="provider" type="hidden" value="google" /></form><form action="/Account/ExternalLogin?ReturnUrl=%2FFavoritos" class="form-control" id="googleLoginFormP" method="post" style="display:none">Microsoft.AspNetCore.Mvc.ViewFeatures.AntiforgeryExtensions+InputContent<input id="provider_google2" name="provider" type="hidden" value="google" /><input id="provider_google3" name="popup" type="hidden" value="popup" /></form>                    </div>
+
+
+                        <ul b-u5qlm61hto class="nav pull-right navbar-nav" id="main-menu-right">
+                            <!--
+                            <li><a rel="Home" href="/">Home</a></li>
+                            -->
+
+                            <li b-u5qlm61hto id="lisearch" style="min-height:50px;padding-top:7px;">
+                                <form b-u5qlm61hto class="navbar-form" role="search" method="POST" action="/Search" accept-charset="UTF-8" style="margin:0">
+                                    <div b-u5qlm61hto class="input-group">
+                                        <input b-u5qlm61hto name="searchtext" id="searchtext" class="typeahead form-control" type="text" placeholder="Buscar por programa / canal / ator ">
+                                        <div b-u5qlm61hto class="input-group-btn">
+                                            <button b-u5qlm61hto class="btn btn-default" type="submit" style="padding: 6px 12px"><i b-u5qlm61hto class="glyphicon glyphicon-search"></i></button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </li>
+
+
+                                <li b-u5qlm61hto class="dropdown">
+                                    <a b-u5qlm61hto class="dropdown-toggle showtooltip" data-toggle="dropdown" href="#" data-toggle="tooltip" data-placement="left" title="" data-original-title="Ver Programação da TV">
+                                        Programação
+                                        <b b-u5qlm61hto class="caret"></b>
+                                    </a>
+                                    <ul b-u5qlm61hto class="dropdown-menu" id="operadoras-menu">
+                                        <li b-u5qlm61hto><a b-u5qlm61hto href="/TV-Aberta"><i b-u5qlm61hto class="glyphicon glyphicon-signal"></i> TV Aberta</a></li>
+                                        <li b-u5qlm61hto><a b-u5qlm61hto href="/"><i b-u5qlm61hto class="glyphicon glyphicon-thumbs-up"></i> Canais Mais Assistidos</a></li>
+                                        <li b-u5qlm61hto><a b-u5qlm61hto href="/Programacao"><i b-u5qlm61hto class="glyphicon glyphicon-globe"></i> Todos Canais</a></li>
+                                        <li b-u5qlm61hto><a b-u5qlm61hto href="/Eroticos"><i b-u5qlm61hto class="glyphicon glyphicon-leaf"></i> Eróticos</a></li>
+                                        <li b-u5qlm61hto><a b-u5qlm61hto href="/Sugestoes"><i b-u5qlm61hto class="glyphicon glyphicon-hand-right"></i> Sugestões</a></li>
+                                        <li b-u5qlm61hto class="divider"></li>
+                                                <li b-u5qlm61hto><a b-u5qlm61hto href="/NET">NET</a></li>
+                                                <li b-u5qlm61hto><a b-u5qlm61hto href="/SKY">SKY</a></li>
+                                                <li b-u5qlm61hto><a b-u5qlm61hto href="/Claro-TV">Claro TV</a></li>
+                                                <li b-u5qlm61hto><a b-u5qlm61hto href="/Oi-TV">Oi TV</a></li>
+                                                <li b-u5qlm61hto><a b-u5qlm61hto href="/GVT-TV">GVT TV</a></li>
+                                                <li b-u5qlm61hto><a b-u5qlm61hto href="/Vivo-TV">Vivo TV</a></li>
+                                                <li b-u5qlm61hto><a b-u5qlm61hto href="/ViaCabo">ViaCabo</a></li>
+                                                <li b-u5qlm61hto><a b-u5qlm61hto href="/Algar">Algar TV / CTBC</a></li>
+                                                <li b-u5qlm61hto><a b-u5qlm61hto href="/Master-Cabo">Master Cabo</a></li>
+                                                <li b-u5qlm61hto><a b-u5qlm61hto href="/Nossa-TV">Nossa TV</a></li>
+                                                <li b-u5qlm61hto><a b-u5qlm61hto href="/RCA-TV">RCA TV</a></li>
+                                        <li b-u5qlm61hto class="divider"></li>
+                                        <li b-u5qlm61hto><a b-u5qlm61hto href="/Operadoras"><i b-u5qlm61hto class="glyphicon glyphicon-plus"></i> Outras Operadoras</a></li>
+                                    </ul>
+                                </li>
+
+
+                            <li b-u5qlm61hto class="dropdown">
+                                <a b-u5qlm61hto class="dropdown-toggle showtooltip" data-toggle="dropdown" href="#" data-toggle="tooltip" data-placement="left" title="" data-original-title="Categorias">
+                                    Categorias
+                                    <b b-u5qlm61hto class="caret"></b>
+                                </a>
+                                <ul b-u5qlm61hto class="dropdown-menu" id="assistir-tv">
+                                    <li b-u5qlm61hto><a b-u5qlm61hto href="/TV-Aberta"> TV Aberta</a></li>
+                                    <li b-u5qlm61hto><a b-u5qlm61hto href="/Programacao"> Todos Canais</a></li>
+                                    <li b-u5qlm61hto><a b-u5qlm61hto href="/Filmes"> Filmes</a></li>
+                                    <li b-u5qlm61hto><a b-u5qlm61hto href="/Series"> Séries</a></li>
+                                    <li b-u5qlm61hto><a b-u5qlm61hto href="/Esportes"> Esportes</a></li>
+                                </ul>
+                            </li>
+
+
+    <li class="dropdown" id="authLinks" style="display:none"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Login
+        <b class="caret"></b></a>
+        <ul class="dropdown-menu" id="login-menu">
+            <li><a href="#" onclick="document.getElementById('facebookLoginForm').submit();">Via Facebook</a></li>
+            <li><a href="#" onclick="document.getElementById('twitterLoginForm').submit();">Via Twitter</a></li>
+            <li><a href="#" onclick="document.getElementById('googleLoginForm').submit();">Via Google</a></li>
+        </ul>
+    </li>
+
+                        </ul>
+
+                </div>
+
+            </div>
+
+        </nav>
+    </header>
+    <div b-u5qlm61hto id="wrapper" class="wrapper" style="">
+
+
+
+        <div b-u5qlm61hto id="main" class="container tmcontainer" style="">
+
+
+            <div b-u5qlm61hto class="row">
+                
+
+
+
+<div id="timeline" class="" style="min-width:250px">
+
+    <div class="divbanner clearfix">
+        <center>
+            
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- Horizontal -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-6379498189335806"
+                 data-ad-slot="1910762448"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </center>
+    </div>
+
+
+
+    <ul class="nav nav-tabs" style="">
+		<li class=""><a href="/Rede-Brasil/Ontem"><strong>Programação de Ontem</strong></a></li>
+		<li class="active"><a href=""><strong>Programação de Hoje</strong></a></li>
+		<li class=""><a href="/Rede-Brasil/Amanha"><strong>Programação de Amanhã</strong></a></li>
+	</ul>
+
+
+    <div id="samplediv" style="width:50%;height:10px;float:left;"></div><div style="width:50%;height:10px;float:left;"></div>
+    <div class="largebox" style="">
+            
+        <div style="">
+            <h1>Programação de Hoje na Rede Brasil</h1>
+                <h3 style="line-height:1.2em;">Rede Brasil</h3>
+        </div>
+    </div>
+
+
+    <ul id="timelineul" class="" style="">
+
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1127230/Dennis-o-Pimentinha"><b>Dennis, o Pimentinha</b></a>                <a id="E24232716" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>05:00 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Denis, uma crian&#xE7;a bagunceira, inferniza o seu vizinho, o Sr. Wilson.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1125868/Os-Tres-Patetas"><b>Os Tr&#xEA;s Patetas</b></a>                <a id="E24232721" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>05:30 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Enquanto estrelam em filmes, Larry, Moe, Curly e &#xE0;s vezes Shemp, nos divertem com com&#xE9;dia de pastel&#xE3;o e se envolvem em muitas situa&#xE7;&#xF5;es de viol&#xEA;ncia, mas de contexto c&#xF4;mico.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1035785/Brasil-News"><b>Brasil News</b></a>                <a id="E24232728" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>06:00 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Os principais destaques do notici&#xE1;rio nacional e internacional, com um formato &#xE1;gil e din&#xE2;mico.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1125864/Giramille"><b>Giramille</b></a>                <a id="E24232732" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>06:15 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+A professora Giramille e seus amigos ensinam de forma divertida e inteligente em um universo m&#xE1;gico.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c761786/O-Diario-de-Mika"><b>O Di&#xE1;rio de Mika</b></a>                <a id="E24232734" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>06:20 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer. Junto de seus brinquedos, Puqu&#xEA;, Blabl&#xE1;, Bru, Jav&#xF4;, Abelhuda e Lil&#xE1;, ela aprende sobre o mundo, vivendo incr&#xED;veis aventuras e novas experi&#xEA;ncias.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1096681/RB-Kids"><b>RB Kids</b></a>                <a id="E24234730" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>06:40 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Espa&#xE7;o destinado &#xE0; exibi&#xE7;&#xE3;o de desenhos infantis.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c761780/Os-Chocolix"><b>Os Chocolix</b></a>                <a id="E24234732" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>06:50 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Os Chocolix s&#xE3;o uma fam&#xED;lia de chocolates de cores diferentes que vivem no espl&#xEA;ndido Reino de Chocol&#xE2;ndia. Dona Branca, Don Cacau e seus filhos Chocomark e Chocholyne vivem grandes aventuras e ensinam conceitos de amizade e a import&#xE2;ncia da fam&#xED;lia.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1059070/MuQiLing"><b>MuQiLing</b></a>                <a id="E24234737" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>07:10 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Um menino &#xE9; teletransportado para a Ilha da Sombra Verde e l&#xE1; forma alian&#xE7;a com dois MuQiLing.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1059093/A-Feiticeira"><b>A Feiticeira</b></a>                <a id="E24234741" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>07:40 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Basta torcer o nariz para Samantha usar seus poderes de bruxa. O problema &#xE9; que seu marido, o publicit&#xE1;rio James, quer que ela seja uma esposa normal e ignore sua m&#xE1;gica.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1037604/Na-Casa-do-Padre"><b>Na Casa do Padre</b></a>                <a id="E24234743" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>08:00 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+O padre Alessandro Campos entrevista artistas sertanejos com muita m&#xFA;sica e hist&#xF3;rias interessantes.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1059072/Atelie-na-TV"><b>Ateli&#xEA; na TV</b></a>                <a id="E24234754" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>09:15 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Humorado, irreverente e diversificado, Dotan Mayo apresenta as novidades e tend&#xEA;ncias do mundo do artesanato. Aprenda a fazer os mais variados trabalhos manuais, de decora&#xE7;&#xE3;o e pinturas &#xE0; cria&#xE7;&#xE3;o de roupas.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1035785/Brasil-News"><b>Brasil News</b></a>                <a id="E24234756" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>09:45 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Os principais destaques do notici&#xE1;rio nacional e internacional, com um formato &#xE1;gil e din&#xE2;mico.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c761735/Programa-Pago"><b>Programa Pago</b></a>                <a id="E24234760" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>10:00 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Espa&#xE7;o publicit&#xE1;rio destinado &#xE0; comercializa&#xE7;&#xE3;o de produtos e servi&#xE7;os.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1096678/RB-Noticias"><b>RB Not&#xED;cias</b></a>                <a id="E24234763" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>10:15 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+As not&#xED;cias mais atualizadas do Brasil e do mundo.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c766871/Papo-em-Dia"><b>Papo em Dia</b></a>                <a id="E24234764" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>10:30 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Veja entrevistas com convidados especiais, gastronomia com chefs renomados e muito entretenimento.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1035785/Brasil-News"><b>Brasil News</b></a>                <a id="E24234778" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>12:00 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Os principais destaques do notici&#xE1;rio nacional e internacional, com um formato &#xE1;gil e din&#xE2;mico.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1067574/Hino-a-Alegria"><b>Hino &#xE0; Alegria</b></a>                <a id="E24234786" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>13:00 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Cinco mulheres de diferentes origens, sonhos e personalidades vivem no mesmo complexo de apartamentos em Xangai, na China. Elas passam a ser amigas e compartilhar as alegrias e tristezas do dia a dia.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1096678/RB-Noticias"><b>RB Not&#xED;cias</b></a>                <a id="E24234788" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>13:20 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+As not&#xED;cias mais atualizadas do Brasil e do mundo.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1059076/Mulher-360"><b>Mulher 360</b></a>                <a id="E24234790" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>13:30 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Com uma vis&#xE3;o inclusiva, o programa destaca-se ao proporcionar um espa&#xE7;o que reconhece e celebra as diversas facetas da mulher contempor&#xE2;nea.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1035785/Brasil-News"><b>Brasil News</b></a>                <a id="E24234797" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>14:30 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Os principais destaques do notici&#xE1;rio nacional e internacional, com um formato &#xE1;gil e din&#xE2;mico.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c766935/Tarde-Top"><b>Tarde Top</b></a>                <a id="E24234802" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>15:00 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Nani Ven&#xE2;ncio traz informa&#xE7;&#xE3;o e entretenimento, com entrevistas, sa&#xFA;de, fofoca e variedades.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1059075/Punky-a-Levada-da-Breca"><b>Punky, a Levada da Breca</b></a>                <a id="E24234812" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>16:00 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Pen&#xE9;lope &quot;Punky&quot; Brewster &#xE9; uma garota bem-humorada, abandonada pelos pais. Na companhia do seu c&#xE3;o Pinky, descobre um apartamento vago num pr&#xE9;dio e passa a viver l&#xE1;. O administrador do pr&#xE9;dio a adota e com suas amigas passa por grandes aventuras.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c761735/Programa-Pago"><b>Programa Pago</b></a>                <a id="E24234799" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>16:30 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Espa&#xE7;o publicit&#xE1;rio destinado &#xE0; comercializa&#xE7;&#xE3;o de produtos e servi&#xE7;os.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1096678/RB-Noticias"><b>RB Not&#xED;cias</b></a>                <a id="E24234819" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>16:45 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+As not&#xED;cias mais atualizadas do Brasil e do mundo.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1035843/Oracao-da-Noite"><b>Ora&#xE7;&#xE3;o da Noite</b></a>                <a id="E24234820" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>17:00 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Momento reflexivo de ora&#xE7;&#xE3;o.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1121709/Corrida-Maluca"><b>Corrida Maluca</b></a>                <a id="E24234823" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>17:30 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Dez pilotos disputam corridas pelo pa&#xED;s em seus carros malucos e cheios de estilo. O corredor Dick Vigarista est&#xE1; sempre pronto para passar seus advers&#xE1;rios para tr&#xE1;s, mas seu orgulho acaba atrapalhando at&#xE9; mesmo suas trapa&#xE7;as.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1120116/A-Pantera-Cor-de-Rosa"><b>A Pantera Cor-de-Rosa</b></a>                <a id="E24234829" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>17:40 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+As aventuras animadas da Pantera Cor-de-Rosa e de Crane, a cegonha perna fina.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1090742/Agente-86"><b>Agente 86</b></a>                <a id="E24234830" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>17:45 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Um agente secreto e muito atrapalhado tenta salvar o mundo da terr&#xED;vel organiza&#xE7;&#xE3;o KAOS.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c834318/Eu-a-Patroa-e-as-Criancas"><b>Eu, a Patroa e as Crian&#xE7;as</b></a>                <a id="E24234837" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>18:10 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Enquanto Michael Kyle tem como miss&#xE3;o construir a tradicional fam&#xED;lia perfeita, sua mulher busca seu pr&#xF3;prio caminho na vida.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1035785/Brasil-News"><b>Brasil News</b></a>                <a id="E24234839" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>18:30 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Os principais destaques do notici&#xE1;rio nacional e internacional, com um formato &#xE1;gil e din&#xE2;mico.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c761735/Programa-Pago"><b>Programa Pago</b></a>                <a id="E24234848" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>19:30 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Espa&#xE7;o publicit&#xE1;rio destinado &#xE0; comercializa&#xE7;&#xE3;o de produtos e servi&#xE7;os.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1059093/A-Feiticeira"><b>A Feiticeira</b></a>                <a id="E24234850" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>19:45 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Basta torcer o nariz para Samantha usar seus poderes de bruxa. O problema &#xE9; que seu marido, o publicit&#xE1;rio James, quer que ela seja uma esposa normal e ignore sua m&#xE1;gica.            </div>
+
+        </li>
+        <li style="" class="currentShow">
+            <div class="timelineheader">
+<a href="/c1078669/James-West"><b>James West</b></a>                <a id="E24237067" style="position: absolute;left: -2000px;"></a>
+<a id="a" style="position: relative;left: -2000px;"></a>            </div>
+            <div class="datebox">
+	            <p title="Segunda-feira, 25 de Novembro">Seg <span>Hoje</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>20:10 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+A hist&#xF3;ria de dois agentes secretos americanos no faroeste, o galante pistoleiro James West e Artemus Gordon, um inventor de parafern&#xE1;lias e mestre dos disfarces. A miss&#xE3;o da dupla &#xE9; proteger o presidente Ulysses S. Grant.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1125865/Terra-de-Gigantes"><b>Terra de Gigantes</b></a>                <a id="E24237074" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Ter&#xE7;a-feira, 26 de Novembro">Ter <span>Amanh&#xE3;</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>00:00 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Um grupo de pessoas aterrissa em um mundo doze vezes maior do que o nosso, habitado por gigantes.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1125866/A-Mulher-Maravilha"><b>A Mulher-Maravilha</b></a>                <a id="E24237082" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Ter&#xE7;a-feira, 26 de Novembro">Ter <span>Amanh&#xE3;</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>01:00 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Conhecida como Mulher-Maravilha, Diana Prince luta contra bandidos e captura seus inimigos com seu la&#xE7;o m&#xE1;gico e seus braceletes da vit&#xF3;ria.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1125867/Missao-Impossivel"><b>Miss&#xE3;o: Imposs&#xED;vel</b></a>                <a id="E24237092" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Ter&#xE7;a-feira, 26 de Novembro">Ter <span>Amanh&#xE3;</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>01:50 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Agentes da For&#xE7;a de Miss&#xF5;es Imposs&#xED;veis realizam a&#xE7;&#xF5;es perigosas para derrubar criminosos.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c832734/Viagem-ao-Fundo-do-Mar"><b>Viagem ao Fundo do Mar</b></a>                <a id="E24237103" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Ter&#xE7;a-feira, 26 de Novembro">Ter <span>Amanh&#xE3;</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>02:40 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+As fa&#xE7;anhas da equipe do submarino nuclear &quot;The Seaview&quot;.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c1059067/Papai-Sabe-Tudo"><b>Papai Sabe Tudo</b></a>                <a id="E24237115" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Ter&#xE7;a-feira, 26 de Novembro">Ter <span>Amanh&#xE3;</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>03:40 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Jim Anderson, um corretor de seguros simp&#xE1;tico e sabich&#xE3;o, ajuda sua fam&#xED;lia a enfrentar os problemas do dia a dia.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c832732/Os-Monstros"><b>Os Monstros</b></a>                <a id="E24237121" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Ter&#xE7;a-feira, 26 de Novembro">Ter <span>Amanh&#xE3;</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>04:10 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+Em uma casa assustadora na rua Mockingbird vivem Os Monstros. Eles s&#xE3;o honestos e de grande cora&#xE7;&#xE3;o, por&#xE9;m n&#xE3;o entendem porque os vizinhos desaparecem correndo de pavor quando eles chegam.            </div>
+
+        </li>
+        <li style="" >
+            <div class="timelineheader">
+<a href="/c832735/Perdidos-no-Espaco"><b>Perdidos no Espa&#xE7;o</b></a>                <a id="E24237127" style="position: absolute;left: -2000px;"></a>
+            </div>
+            <div class="datebox">
+	            <p title="Ter&#xE7;a-feira, 26 de Novembro">Ter <span>Amanh&#xE3;</span></p>
+            </div>
+            <div class="hourbox">
+	            <p><span>04:40 h</span></p>
+            </div>
+            <div class="text_exposed_root">
+As aventuras da fam&#xED;lia Robinson no espa&#xE7;o a bordo da nave J&#xFA;piter 2.            </div>
+
+        </li>
+    </ul>
+
+        <div class="largebox" style="">
+        <div class="assistindo">
+            <div class="assistindo2" >
+                <a href="javascript:share(24232716);" rel="nofollow" tabindex="-1" title="Estou assistindo" class="img _8o _8r UFILikeThumb UFIImageBlockImage">
+                    <i class="UFILikeIcon" style=" padding-left: 40px; padding-top: 10px;">
+                        Está assistindo? Compartilhe!
+                    </i>
+                </a>
+            </div>
+            <div>
+                <div class="UFIImageBlockContent _8m _8u" >
+                </div>
+            </div>
+        </div>
+        </div>
+
+    
+    <div class="divbanner clearfix">
+        <center>
+            
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- Horizontal -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-6379498189335806"
+                 data-ad-slot="1910762448"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </center>
+    </div>
+
+
+
+</div>
+
+
+            </div>
+        </div>
+
+    </div> <!-- wrap -->
+        <footer b-u5qlm61hto id="footer" class="footer">
+            <div b-u5qlm61hto class="navbar navbar-default">
+                <div b-u5qlm61hto class="container tmcontainer">
+
+                    <div b-u5qlm61hto class="row">
+
+
+                        <div b-u5qlm61hto class="col-sm-2 col-md-2">
+                            <h3 b-u5qlm61hto>Siga a gente</h3>
+                            <strong b-u5qlm61hto><a b-u5qlm61hto href="https://www.facebook.com/TVmap">Facebook</a></strong><br b-u5qlm61hto />
+                            <a b-u5qlm61hto href="https://twitter.com/TV_map">Twitter</a>
+                        </div>
+
+                        <div b-u5qlm61hto class="col-sm-2 col-md-2">
+                            <h3 b-u5qlm61hto>Entre em contato</h3>
+                            <p b-u5qlm61hto><strong b-u5qlm61hto><a b-u5qlm61hto href="/Contato">Mande sua mensagem</a></strong></p>
+                        </div>
+
+                        <div b-u5qlm61hto class="col-sm-2 col-md-2">
+                            <h3 b-u5qlm61hto>Links</h3>
+                            <p b-u5qlm61hto><a b-u5qlm61hto href="/Termos">Termos de uso</a></p>
+                            <p b-u5qlm61hto><a b-u5qlm61hto href="https://www.tvmap.pt">Guia de Programação Portugal</a></p>
+                        </div>
+
+
+                        <div b-u5qlm61hto class="col-sm-2 col-md-2">
+                            <h3 b-u5qlm61hto>Desenvolvimento</h3>
+                            <p b-u5qlm61hto>
+
+                                <a b-u5qlm61hto href="https://www.abstrakti.com/Home/Contact"><img b-u5qlm61hto src="/images/abstrakti2.png" alt="Abstrakti Software" width="132"></a>
+                            </p>
+                        </div>
+
+
+                        <div b-u5qlm61hto class="col-sm-1 col-md-1">
+                            <a b-u5qlm61hto href="https://www.positivessl.com" style="font-family: arial; font-size: 10px; color: #212121; text-decoration: none;"><img b-u5qlm61hto src="https://www.positivessl.com/images-new/PositiveSSL_tl_trans.png" alt="Site seguro, certificado pela Comodo" title="Site seguro, certificado pela Comodo" border="0"></a>
+                        </div>
+
+                        <div b-u5qlm61hto class="col-sm-2 col-md-2">
+                        </div>
+
+                        <div b-u5qlm61hto style="position: relative;">
+                            <p b-u5qlm61hto style="position: absolute;top: 10px;right: 0px;">
+                                <a b-u5qlm61hto onclick="$(window).scrollTop(0); return false;" href="#top">Voltar ao topo</a>
+                            </p>
+                        </div>
+
+
+
+
+
+                    </div>
+
+
+                </div>
+            </div>
+        </footer>
+
+
+
+    <script>
+        var fbloaded = false;
+        var delayedFbTooltip = false;
+        window.fbAsyncInit = function () {
+            // init the FB JS SDK
+            FB.init({
+                appId: '480960495260114', // tvmap.com.br
+                channelUrl: 'http://(tvmap.com.br)/channel.html', // Channel File for x-domain communication // double-slash technique doesnt work in razor mvc
+                status: true, // check the login status upon init?
+                cookie: true, // set sessions cookies to allow your server to access the session?
+                xfbml: true  // parse XFBML tags on this page?
+            });
+
+            //            FB.Event.subscribe("edge.create", function (targetUrl) {
+            //                console.log('edge.create');
+            //                alert('edge.create');
+            //            });
+            //            FB.Event.subscribe("edge.remove", function (targetUrl) {
+            //                console.log('edge.remove');
+            //                alert('edge.remove');
+            //            });
+
+            FB.Event.subscribe("xfbml.render", function () {
+                //console.log('xfbml.render');
+
+                //var height = $('#fbComments').height(); //FB.Canvas.setAutoGrow()
+                FB.Canvas.setAutoGrow(false);
+                setTimeout(function () {
+                    fbLoaded(true); // $(window).trigger('resize');
+                    setTimeout(function () {
+                        fbLoaded(true); // $(window).trigger('resize');
+                    }, 1000);
+                }, 5000);
+
+                if (delayedFbTooltip)
+                    $('#comments-tooltip').tooltip('show', { delay: { show: 500, hide: 200 }, html: true });
+                //                FB.Event.subscribe("edge.create", function (targetUrl) {
+                //                    console.log('edge.create');
+                //                    alert('edge.create');
+                //                });
+                //                FB.Event.subscribe("edge.remove", function (targetUrl) {
+                //                    console.log('edge.remove');
+                //                    alert('edge.remove');
+                //                });
+            });
+
+            FB.Event.subscribe('comment.create', function (response) {
+                console.log('post_fbid=' + response.commentID + ', url=' + response.href);
+                var commentQuery = FB.Data.query("SELECT text, fromid, time, id FROM comment WHERE post_fbid='" + response.commentID + "' AND object_id IN (SELECT comments_fbid FROM link_stat WHERE url='" + response.href + "')");
+                var userQuery = FB.Data.query("SELECT name, uid, sex, pic_small_with_logo, pic_big_with_logo, pic_square_with_logo, pic_with_logo, current_address FROM user WHERE uid in (select fromid from {0})", commentQuery);
+                var profileQuery = FB.Data.query("SELECT name, url, pic FROM profile WHERE id in (select fromid from {0})", commentQuery);
+
+                FB.Data.waitOn([commentQuery, userQuery, profileQuery], function () {
+                    // Do whatever you want with the data
+                    console.log(commentQuery.value[0].text);
+                    console.log(userQuery.value[0].name)
+                    console.log(userQuery.value[0].uid);
+                    console.log(userQuery.value[0].sex);
+                    console.log(userQuery.value[0].pic_square_with_logo);
+                    console.log(userQuery.value[0].current_address);
+                    console.log(userQuery.value[0].url);
+                    console.log(profileQuery.value[0].url);
+                    var time = commentQuery.value[0].time;
+                    var userId = commentQuery.value[0].fromid;
+                    var userName = profileQuery.value[0].name;
+                    var commentId = commentQuery.value[0].id;
+                    var message = commentQuery.value[0].text;
+                    createComment(commentId, userId, userName, time, message);
+                });
+            });
+
+            // Additional initialization code such as adding Event Listeners goes here
+            //            FB.Event.subscribe('auth.authResponseChange', function(response) {
+            //                alert('auth.login');
+            //                var credentials = { uid: response.authResponse.userID, accessToken: response.authResponse.accessToken };
+            //                SubmitLogin(credentials);
+            //            });
+
+            //            FB.getLoginStatus(function (response) {
+            //                if (response.status === 'connected') {
+            //                    //alert("user is logged into fb");
+            //                }
+            //                else if (response.status === 'not_authorized') {
+            //                    //alert("user is not authorised");
+            //                }
+            //                else {
+            //                    //alert("user is not conntected to facebook");
+            //                }
+
+            //            });
+
+            //            function SubmitLogin(credentials) {
+            //                alert('submitlogin');
+            //                $.ajax({
+            //                    url: "/account/facebooklogin",
+            //                    type: "POST",
+            //                    data: credentials,
+            //                    error: function () {
+            //                        //alert("error logging in to your facebook account.");
+            //                    },
+            //                    success: function () {
+            //                        window.location.reload();
+            //                    }
+            //                });
+            //            }
+
+        };
+
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) { return; }
+            js = d.createElement(s); js.id = id;
+            js.src = "///connect.facebook.net/pt_BR/all.js#xfbml=1&appId=480960495260114";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+
+
+
+        var createComment = function (commentId, userId, userName, time, message) {
+            var newComment = JSON.stringify({ "commentId": commentId, "userId": userId, "userName": userName, "time": time, "message": message });
+            $.ajax({
+                type: "POST",
+                async: true,
+                contentType: "application/json; charset=utf-8",
+                data: newComment,
+                url: "Comments/Create",
+                dataType: "html",
+                success: function (data) {
+                    // Work on myData object (JSON)
+                    $('.uiList.fbFeedbackPosts').prepend(data);
+                },
+                error: function (data, textStatus, jqXHR) {
+                    console.log("Error: " + textStatus);
+                }
+            });
+        }
+
+    </script>
+
+
+    <script type="text/javascript" src="/Scripts/tvmap.js?v=2"></script>
+
+
+    <script src="/Scripts/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/Scripts/typeahead.bundle.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.cookie.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.blockUI.js" type="text/javascript"></script>
+    
+
+    <script type="text/javascript" src="/Scripts/masonry.pkgd.min.js"></script>
+    <script type="text/javascript" src="/Scripts/imagesloaded.pkgd.min.js"></script>
+
+
+       
+    <script type="text/javascript">
+        function share() {
+            scroll = $(window).scrollTop();
+            FB.ui(
+              {
+                  method: 'feed',
+                  name: 'Rede Brasil',
+                  //caption: 'Model.Caption',
+                  description: (
+                  'Rede Brasil'
+               ),
+                  link: 'http://www.tvmap.com.br',
+                  picture: 'http://www.tvmap.com.br/images/tvmap.png'
+              },
+              function (response) {
+                  $(window).scrollTop(scroll);
+                  if (response && response.post_id) {
+                      //alert('Post publicado.');
+                  } else {
+                      //alert('Post não foi publicado.');
+                  }
+              }
+            );
+            $(window).one('scroll', function () { $(window).scrollTop(scroll) });
+        }
+    </script>
+        
+        
+
+
+
+
+    <script type="text/javascript">
+        $(window).on('load', function (e) {
+            if (window.location.hash == '#_=_') {
+                window.location.hash = ''; // for older browsers, leaves a # behind
+                history.pushState('', document.title, window.location.pathname); // nice and clean
+                e.preventDefault(); // no page reload
+            }
+        });
+
+        $(function () {
+            $('.showtooltip').tooltip({ delay: { show: 500, hide: 200 }, html: true });
+        });
+
+        var fbLoaded = function (callback) {
+            if (!fbloaded && callback && $('#fbComments iframe').length) {
+                //fbloaded = true;
+                /* infelizmente ficam em cache */
+                /*
+                if ($(".fbFeedbackContent").css("min-height") != null) {
+                fbloaded = true;
+                }
+                if ($('.fbFeedbackContent .fbFeedbackPost').css("border") != null) {
+                fbloaded = true;
+                }*/
+
+                //                    var h = $('#fbComments iframe').height();
+                //                    if (h > 160)
+                //                        fbloaded = true;
+
+                var state = $('#fbComments iframe').parent().parent().attr('fb-xfbml-state');
+                console.log('state=' + state);
+                if (state == 'rendered') {
+                    if (!($('#fbComments iframe').parent().parent().hasClass('fb_iframe_widget_loader'))) {
+                        fbloaded = true;
+                        console.log('fbloaded=true');
+                    }
+                }
+                if (state == 'parsed') {
+                    var h = $('#fbComments iframe').height();
+                    console.log('h=' + h);
+                    if (h > 160)
+                        fbloaded = true;
+                    console.log('fbloaded=true');
+                }
+
+            }
+
+            if (fbloaded) {
+                $("#fbComments").fadeIn(500);
+                $("#fbTab").fadeIn(500);
+                var w = $('.col-sm-4').width();
+                var w = 0;
+                $('.commentContent').each(function () {
+                    var w2 = parseInt($(this).width());
+                    if (w2 > w)
+                        w = w2;
+                });
+                $('.fb-comments iframe[style], .fb-comments span, .fb-comments.fb_iframe_widget span iframe').css('max-width', w);
+                $('.fb-comments iframe[style], .fb-comments span, .fb-comments.fb_iframe_widget span iframe').css('min-width', w);
+                $('.fb-comments iframe[style], .fb-comments span, .fb-comments.fb_iframe_widget span iframe').css('width', w);
+                var h2;
+                if (w >= 443)
+                    h2 = 103;
+                else if (w >= 319)
+                    h2 = 135;
+                else h2 = 180;
+                $('div#pane2').css('max-height', h2).css('height', h2)
+
+                $('.fb-like-box iframe[style], .fb-like-box span, .fb-like-box.fb_iframe_widget span iframe').css('max-width', w);
+                $('.fb-like-box iframe[style], .fb-like-box span, .fb-like-box.fb_iframe_widget span iframe').css('min-width', w);
+                $('.fb-like-box iframe[style], .fb-like-box span, .fb-like-box.fb_iframe_widget span iframe').css('width', w);
+                var height = (w > 552 ? 154 : 218);
+                $('.fb-like-box iframe[style], .fb-like-box span, .fb-like-box.fb_iframe_widget span iframe').css('max-height', height);
+                $('.fb-like-box iframe[style], .fb-like-box span, .fb-like-box.fb_iframe_widget span iframe').css('min-height', height);
+                $('.fb-like-box iframe[style], .fb-like-box span, .fb-like-box.fb_iframe_widget span iframe').css('height', height);
+                $('#followUs').slideDown();
+
+                if (!callback)
+                    $("#fbTab").find('a[data-toggle="tab"]').click();
+                //if ($('.tmComments').length && $('#fbComments iframe').length) {
+                //    //var top2 = $('.tmComments').offset().top;
+                //    //var top0 = parseInt($('.tmComments').css('top'));
+                //    //var top3;
+                //    if (fbloaded) {
+                //        //top3 = $('#fbComments iframe').offset().top;
+                //        //$('.tmComments').css('top', -(top2 - top3 - 180 - top0));
+                //        //$('#comment1').css('display', 'none');
+                //        //$('.tarja').css('display', 'block');
+                //        //$('.tmComments').css('top', '-3px');
+                //        //$('.tmComments').css('top', $('#innerFbComments').css('top'));
+                //        //$('.tmComments').css('top', parseInt($('#innerFbComments').css('top')) -3);
+                //    }
+                //    else {
+                //        //top3 = $('#ratings-title').offset().top;
+                //        //$('.tmComments').css('top', -(top2 - top3 - 180 - top0));
+                //    }
+                //    //$('#fbComments iframe').css('height', '120')
+                //    //$('#fbComments iframe').css('max-height', '150px');
+                //}
+            }
+        }
+
+        $(window).resize(function () {
+            //$('body,html').height(parseInt(($(window).height() + 20 - $('#navbar-fixed-top').height()) / $(window).height() * 100) + '%');
+            $('body,html').css('min-height', (parseInt($(window).height() - $('#navbar-fixed-top').height() - 20) + 'px'))
+            fbLoaded(false);
+        });
+
+
+    </script>
+
+
+
+
+
+    <script type='text/javascript' src='/simplemodalcss/jquery.simplemodal-1.4.4.js'></script>
+
+
+        <script>
+            var modalLogin = function () { $('#modal-login').modal({ containerId: 'modal-login-container' }); };
+            //$('#modal-login').modal({containerId: 'modal-login-container'});
+            $('#authLinks.dropdown').click(function () { modalLogin(); });
+            //$('.watchinglink').click(function () {
+            //    $.modal.close();
+            //    return false;
+            //});
+            function popupwindow(url, title, w, h) {
+                var left = (screen.width / 2) - (w / 2);
+                var top = (screen.height / 2) - (h / 2);
+                return window.open(url, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+            }
+            var dimension = screen.availWidth > screen.availHeight ? screen.availWidth : screen.availHeight;
+            window.mobilecheck = function () {
+                var check = false;
+                (function (a) { if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4))) check = true })(navigator.userAgent || navigator.vendor || window.opera);
+                return check;
+            }
+            var enablePopup = !window.mobilecheck() && dimension >= 1000;
+
+            $('.login .facebook').click(function () {
+                if (enablePopup) {
+                    //var pos = screenCenterPos(800, 500);
+                    //tvMapLogin = window.open('', 'tvMapLogin', "width=780,height=410,toolbar=0,scrollbars=0,status=0,resizable=0,location=0,menuBar=0,left=" + pos.x + ",top=" + pos.y);
+                    tvMapLogin = popupwindow('', 'tvMapLogin', 780, 410);
+                    $('#facebookLoginFormP').attr('target', 'tvMapLogin');
+                    //$('#facebookLoginFormP').attr('action', $('#facebookLoginFormP').attr('action').replace('ReturnUrl=%2F', 'ReturnUrl=/Account/PopupLoginCallback'));
+                    document.getElementById('facebookLoginFormP').submit();
+                    tvMapLogin.focus();
+                }
+                else
+                    document.getElementById('facebookLoginForm').submit();
+                return false;
+            });
+            $('.login .twitter').click(function () {
+                if (enablePopup) {
+                    tvMapLogin = popupwindow('', 'tvMapLogin', 780, 410);
+                    $('#twitterLoginFormP').attr('target', 'tvMapLogin');
+                    document.getElementById('twitterLoginFormP').submit();
+                    tvMapLogin.focus();
+                }
+                else
+                    document.getElementById('twitterLoginForm').submit();
+                return false;
+            });
+
+            $('.login .google').click(function () {
+                if (enablePopup) {
+                    tvMapLogin = popupwindow('', 'tvMapLogin', 780, 410);
+                    $('#googleLoginFormP').attr('target', 'tvMapLogin');
+                    document.getElementById('googleLoginFormP').submit();
+                    tvMapLogin.focus();
+                }
+                else
+                    document.getElementById('googleLoginForm').submit();
+                return false;
+            });
+
+            var loginHandler = function (redirectUrl, ajaxGridUrl) {
+                $.modal.close();
+                if (redirectUrl != null) {
+                    window.location.href = redirectUrl;
+                    return;
+                }
+                if (ajaxGridUrl != null) {
+                    loadGridWithAjax(ajaxGridUrl);
+                }
+                jQuery.ajax({
+                    type: "GET",
+                    url: "/Account/AuthForms",
+                    async: true,
+                    dataType: "html",
+                    cache: false,
+                    success: function (data) {
+                        if (data) {
+                            $('#authForms').replaceWith(data);
+                        }
+                    }
+                });
+                jQuery.ajax({
+                    type: "GET",
+                    url: "/Account/AuthLinks",
+                    async: true,
+                    dataType: "html",
+                    cache: false,
+                    success: function (data) {
+                        if (data) {
+                            $('#authLinks').replaceWith(data);
+                        }
+                    }
+                });
+            }
+        </script>
+        <script>
+            var nextExhibs = new Bloodhound({
+                datumTokenizer: Bloodhound.tokenizers.obj.whitespace('value'),
+                queryTokenizer: Bloodhound.tokenizers.whitespace,
+                //prefetch: '../data/films/post_1960.json',
+                //remote: '/SearchA/?searchtext=%QUERY'
+                remote: {
+                    url: '/SearchA/',
+                    replace: function (url, query) { /* se usar beforeSend isto eh necessario pois senao o ajax pensa que o url nao mudou e nao chama de novo */
+                        return url + "#" + query;
+                    },
+                    ajax: {
+                        beforeSend: function (jqXhr, settings) {
+                            //settings.data = $.param({ q: queryInput.val() })
+                            //settings.data = $.param({ searchtext: $('#searchtext').val() })
+                            settings.data = JSON.stringify({ searchtext: $('#searchtext').val() })
+                            //settings.data = $.param({ searchtext: $('#searchtext').val() })
+                            //settings.data = '{ "searchtext": "lalala" }';
+                            //jqXhr.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
+                        },
+                        //data: $.param({ searchtext: $('#searchtext').val() }),
+                        //data: JSON.stringify({ searchtext: $('#searchtext').val() }),
+                        type: "POST",
+                        contentType: "application/json; charset=utf-8"
+                        //contentType: "application/x-www-form-urlencoded"
+
+                        //, data: {
+                        //    q: function () {
+                        //        return $('#searchtext').val()
+                        //    }
+                        //}
+
+
+                    },
+                    cache: false
+                }
+
+            });
+
+            nextExhibs.initialize();
+
+            $('.input-group .typeahead').typeahead(null, {
+                name: 'next-exhibs',
+                displayKey: 'value',
+                source: nextExhibs.ttAdapter(),
+                templates: {
+                    empty: [
+                        '<div class="empty-message">',
+                        'O Programa/Ator/Canal não foi encontrado.',
+                        '</div>'
+                    ].join('\n'),
+                    suggestion: function (object) {
+                        return '<a href="/Programas/c' + object.contentID + '">'
+                            + '<span>' + object.value + '</span>'
+                            + '</a>'
+                            + '<span style="color: #888;font-size: 11px;">(' + object.startDate + 'hs ' + object.tvChannel + ')</span>'
+                            + '<hr style="margin:0">';
+                        return '<li class=""><a href="/filmes/filme-61139/"><img src="http://br.web.img2.acsta.net/c_75_100/medias/nmedia/18/87/18/18/19872842.jpg"><span class="text"><span class="title">' + object.value + '</span><span class="fs11 lighten">(Rambo)</span><span class="fs11 lighten">Filme de (2008)</span></span></a></li>';
+                        var str = [
+                            '<img class="art" width="25px" src="http://img.getglue.com/tv_shows/x/small.jpg">',
+                            '<a href="/url?id=',
+                            object.year,
+                            '">&nbsp;&nbsp;',
+                            object.value,
+                            '</a>'
+
+                            //'<p>',
+                            //'</p><a class="btn btn-info btn-small" href="item.html?id="',
+                            //'>Open</a>'
+                        ].join('') + '<hr/>';
+                        return str;
+                    }
+
+                    , matcher: function (item) {
+                        if (this.query == '*') {
+                            return true;
+                        } else {
+                            return item.indexOf(this.query) >= 0;
+                        }
+                    }
+
+                    //suggestion: function(object){
+                    //    var str = [
+                    //'<li class="touchable object" data-title="X" data-object-key="tv_shows/x">',
+                    //        '<img class="art" src="http://img.getglue.com/tv_shows/x/small.jpg">',
+                    //        '<div class="text">',
+                    //        '<p><strong>X</strong></p>',
+                    //            '<p class="category">Show</p>',
+                    //        '</div>',
+                    //      '</li>'
+                    //    ].join('');
+                    //    return str;
+                    //}
+                    //'<p><strong>{{value}}</strong> – {{year}}</p>'
+                }
+            });
+        </script>
+
+	<script data-cfasync="false" type="text/javascript" id="clever-core">
+		/* <![CDATA[ */
+		(function (document, window) {
+			var a, c = document.createElement("script"), f = window.frameElement;
+
+			c.id= "CleverCoreLoader77814";
+			c.src = "https://scripts.cleverwebserver.com/b7490cbbbd5cfd081d8ec1930914a677.js";
+			c.async = !0;
+			c.type = "text/javascript";
+			c.setAttribute("data-target",window.name|| (f && f.getAttribute("id")));
+			c.setAttribute("data-callback", "put-your-callback-function-here");
+			c.setAttribute("data-callback-url-click", "put-your-click-macro-here");
+			c.setAttribute("data-callback-url-view", "put-your-view-macro-here");
+			try {
+				a = parent.document.getElementsByTagName("script")[0] || document.getElementsByTagName("script")[0];
+			} catch (e) {
+				a = !1;
+			}
+			a || (a = document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]);
+			a.parentNode.insertBefore(c, a);
+		})(document, window);
+		/* ]]> */
+	</script>
+	<div b-u5qlm61hto class="clever-core-ads"></div>
+
+</body>
+</html>
