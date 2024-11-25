@@ -10,6 +10,6 @@
   <timespan>2</timespan>
   <update>s</update>
   <channels>
-   <channel update="i" site="lineup.net.br" site_id="6" xmltv_id="Rede Brasil">Rede Brasil</channel>
+   <channel update="i" site="https://www.tvprogramacao.com/epg/today" site_id="6" xmltv_id="Rede Brasil">Rede Brasil</channel>
   <channels>		
 </settings>
