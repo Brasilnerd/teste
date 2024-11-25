@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="PlayTV.br" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="Undefined",Play TV
-https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
+https://isaocorp.cloudecast.com/playtv/playlist.m3u8
