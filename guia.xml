@@ -1,18 +1,9 @@
-<?xml version="1.0"?>
-<settings>
-  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
-  <filename>C:\guide.xml</filename>
-  <mode>m</mode>
-  <postprocess grab="y" run="n">mdb</postprocess>
-  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
-  <logging>on</logging>
-  <retry time-out="5">4</retry>
-  <timespan>s</timespan>
-  <update>f</update>
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.4.3 -- Jan van Straaten" site="tvmap.com.br">
   <channels>
     <channel update="i" site="guiadatv.com" site_id="rede-brasil" xmltv_id="Rede Brasil">Rede Brasil</channel>
     <channel update="i" site="lineup.net.br" site_id="885979" xmltv_id="Rede Brasil">Rede Brasil</channel>
     <channel update="i" site="lineup.net.br" site_id="981324" xmltv_id="Rede Brasil de Comunicação">Rede Brasil de Comunicação</channel>
     <channel update="i" site="tvmap.com.br" site_id="Rede-Brasil" xmltv_id="Rede Brasil">Rede Brasil</channel>
-    <channels>		
-</settings>
+  </channels>
+</site>
