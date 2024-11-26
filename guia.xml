@@ -11,5 +11,7 @@
   <update>f</update>
   <channels>
     <channel update="i" site="guiadatv.com" site_id="rede-brasil" xmltv_id="Rede Brasil">Rede Brasil</channel>
+    <channel update="i" site="lineup.net.br" site_id="885979" xmltv_id="Rede Brasil">Rede Brasil</channel>
+    <channel update="i" site="lineup.net.br" site_id="981324" xmltv_id="Rede Brasil de Comunicação">Rede Brasil de Comunicação</channel>
     <channels>		
 </settings>
