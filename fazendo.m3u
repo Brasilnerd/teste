@@ -1,5 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede.Brasil.HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Marca_rede_brasil_rgb-color.png/567px-Marca_rede_brasil_rgb-color.png" group-title="",Rede Brasil
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Marca_rede_brasil_rgb-color.png/567px-Marca_rede_brasil_rgb-color.png" group-title="",Rede Brasil
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w682489330.m3u8
 
