@@ -6,6 +6,6 @@
     <channel update="i" site="lineup.net.br" site_id="981324" xmltv_id="Rede Brasil de Comunicação">Rede Brasil de Comunicação</channel>
     <channel update="i" site="tvmap.com.br" site_id="Rede-Brasil" xmltv_id="Rede Brasil">Rede Brasil</channel>
     <channel update="i" site="lineup.net.br" site_id="587400" xmltv_id="TLC">TLC</channel>
-    
+    <channel update="i" site="meuguia.tv" site_id="TRV" xmltv_id="TLC">TLC</channel>
   </channels>
 </site>
