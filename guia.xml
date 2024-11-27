@@ -9,6 +9,6 @@
     <channel update="i" site="meuguia.tv" site_id="TRV" xmltv_id="TLC">TLC</channel>
      <channel update="i" site="tvinside.com.br" site_id="tlc" xmltv_id="TLC">TLC</channel>
     <channel update="i" site="sky.com.br" site_id="86" xmltv_id="TLC">TLC</channel>
-     <channel update="i" site="mi.tv" site_id="br_2020520f-14b5-4ea1-b30d-53f7cfd4076d" xmltv_id="Tlc">Tlc</channel>
+     <channel update="i" site="mi.tv" site_id="br##br_d29f769a-995a-4b84-a015-03b0bafb872e" xmltv_id="BR - Rede Brasil">BR - Rede Brasil</channel>
   </channels>
 </site>
