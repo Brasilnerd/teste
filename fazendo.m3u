@@ -1,4 +1,4 @@
-#EXTM3U   x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
+#EXTM3U   x-tvg-url="https://raw.githubusercontent.com/Brasilnerd/teste/refs/heads/main/guia.xml"
 
 #EXTINF:-1 tvg-id="BR - Rede Brasil" tvg-name="BR - Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Marca_rede_brasil_rgb-color.png/567px-Marca_rede_brasil_rgb-color.png" group-title="",BR - Rede Brasil
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w682489330.m3u8
