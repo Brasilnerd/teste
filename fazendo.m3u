@@ -1,4 +1,4 @@
-#EXTM3U   x-tvg-url="https://raw.githubusercontent.com/Brasilnerd/teste/refs/heads/main/guia.xml"
+#EXTM3U   url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/80345b77e4dbf1d74a7a658521b8a01ce151ebd5/PlutoTV/all.xml,https://epg.pw/xmltv/epg_BR.xml,https://epg.pw/xmltv/epg_lite.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/80345b77e4dbf1d74a7a658521b8a01ce151ebd5/nz/epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/80345b77e4dbf1d74a7a658521b8a01ce151ebd5/SamsungTVPlus/all.xml,https://www.bevy.be/bevyfiles/brazilpremium.xml.gz,https://www.bevy.be/bevyfiles/brazil.xml.gz,https://www.bevy.be/bevyfiles/argentinapremium2.xml.gz,https://www.bevy.be/bevyfiles/argentina.xml.gz"
 
 #EXTINF:-1 tvg-id="BR - Rede Brasil" tvg-name="BR - Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Marca_rede_brasil_rgb-color.png/567px-Marca_rede_brasil_rgb-color.png" group-title="",BR - Rede Brasil
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w682489330.m3u8
