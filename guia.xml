@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.4.3 -- Jan van Straaten" site="tvmap.com.br">
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.1.4.3 -- Jan van Straaten" site="guiadatv.com">
   <channels>
     <channel update="i" site="guiadatv.com" site_id="rede-brasil" xmltv_id="rede-brasil">rede-brasil</channel>
     <channel update="i" site="lineup.net.br" site_id="885979" xmltv_id="Rede Brasil">Rede Brasil</channel>
